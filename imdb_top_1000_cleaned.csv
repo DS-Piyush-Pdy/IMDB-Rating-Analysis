@@ -1,0 +1,784 @@
+title,genre,director,year,duration,rating,votes,genre_list
+Movie 1,"Drama, Sci-Fi, Unknown",Director C,2010,175,2.9,119761,"['Drama', 'Sci-Fi', 'Unknown']"
+Movie 3,"Drama, , Sci-Fi",Director B,1980,139,1.6,235480,"['Drama', '', 'Sci-Fi']"
+Movie 4,"Unknown, Thriller, Sci-Fi",Director C,2007,147,5.1,209000,"['Unknown', 'Thriller', 'Sci-Fi']"
+Movie 5,Adventure,Director B,2014,104,7.7,260739,['Adventure']
+Movie 6,Unknown,Director D,1982,105,6.3,13265,['Unknown']
+Movie 7,"Adventure, , Comedy",,2007,89,3.3,265286,"['Adventure', '', 'Comedy']"
+Movie 8,"Comedy, Action",Director A,1975,159,4.9,236080,"['Comedy', 'Action']"
+Movie 9,"Drama, Horror, Romance",,1969,145,9.1,478646,"['Drama', 'Horror', 'Romance']"
+Movie 11,"Drama, Thriller",Director C,1997,172,8.3,406407,"['Drama', 'Thriller']"
+Movie 12,Horror,Director C,1998,158,9.7,201934,['Horror']
+Movie 15,"Sci-Fi, Romance",Director B,2019,130,7.0,196223,"['Sci-Fi', 'Romance']"
+Movie 16,Romance,Director C,1987,174,2.0,269052,['Romance']
+Movie 18,Sci-Fi,,1957,147,2.5,490502,['Sci-Fi']
+Movie 19,"Romance, Unknown, Thriller",Director B,1980,170,8.5,15094,"['Romance', 'Unknown', 'Thriller']"
+Movie 20,"Horror, Comedy",Director D,1959,69,2.0,425702,"['Horror', 'Comedy']"
+Movie 22,"Thriller, Unknown, Adventure",Director C,1958,123,9.2,152287,"['Thriller', 'Unknown', 'Adventure']"
+Movie 23,Romance,Director B,1966,111,7.3,92398,['Romance']
+Movie 25,"Thriller, Sci-Fi",Director B,2003,152,9.7,304106,"['Thriller', 'Sci-Fi']"
+Movie 26,Unknown,Director B,2005,113,6.6,418642,['Unknown']
+Movie 27,"Action, Drama",Director C,1966,167,8.4,105005,"['Action', 'Drama']"
+Movie 28,Action,Director D,1954,119,1.5,464747,['Action']
+Movie 29,"Comedy, Adventure",,1980,78,6.8,441530,"['Comedy', 'Adventure']"
+Movie 31,"Thriller, Drama, Sci-Fi",Director D,1966,157,4.5,159499,"['Thriller', 'Drama', 'Sci-Fi']"
+Movie 32,"Unknown, Drama",Director D,2004,99,9.7,41718,"['Unknown', 'Drama']"
+Movie 35,"Drama, Romance, ",,1985,82,2.0,58726,"['Drama', 'Romance', '']"
+Movie 37,Adventure,Director C,1998,65,8.5,139541,['Adventure']
+Movie 38,Drama,Director B,2002,76,4.3,329427,['Drama']
+Movie 39,"Drama, Comedy, Unknown",Director D,2001,168,6.4,80781,"['Drama', 'Comedy', 'Unknown']"
+Movie 40,"Adventure, Sci-Fi, Comedy",,2011,158,3.6,331027,"['Adventure', 'Sci-Fi', 'Comedy']"
+Movie 41,"Sci-Fi, Drama",Director A,2004,165,5.7,472017,"['Sci-Fi', 'Drama']"
+Movie 42,", Thriller, Sci-Fi",Director B,1987,164,7.2,30727,"['', 'Thriller', 'Sci-Fi']"
+Movie 43,"Romance, Unknown",,1977,84,6.7,176620,"['Romance', 'Unknown']"
+Movie 44,"Thriller, Action, Romance",Director A,1950,120,3.7,57611,"['Thriller', 'Action', 'Romance']"
+Movie 46,"Horror, Sci-Fi",Director D,1995,125,1.7,259390,"['Horror', 'Sci-Fi']"
+Movie 47,Adventure,,1954,161,5.3,308041,['Adventure']
+Movie 48,"Thriller, , Action",,1960,153,8.0,342957,"['Thriller', '', 'Action']"
+Movie 50,Action,Director C,1968,123,6.3,169244,['Action']
+Movie 51,"Horror, Sci-Fi, Action",Director A,1978,94,4.3,449344,"['Horror', 'Sci-Fi', 'Action']"
+Movie 52,"Unknown, ",,1964,123,9.5,147344,"['Unknown', '']"
+Movie 53,"Action, Unknown, Horror",Director D,2000,88,8.1,49109,"['Action', 'Unknown', 'Horror']"
+Movie 54,Drama,Director D,1952,116,4.3,371329,['Drama']
+Movie 56,Thriller,,2005,92,7.7,185194,['Thriller']
+Movie 57,"Drama, Sci-Fi",Director D,1989,151,6.7,356140,"['Drama', 'Sci-Fi']"
+Movie 59,Romance,Director B,1992,121,1.3,229791,['Romance']
+Movie 60,"Thriller, Comedy, Horror",Director D,1990,142,4.0,169133,"['Thriller', 'Comedy', 'Horror']"
+Movie 61,"Adventure, Action, Thriller",Director D,1993,69,6.0,126901,"['Adventure', 'Action', 'Thriller']"
+Movie 62,Romance,,2000,123,3.9,216885,['Romance']
+Movie 64,Horror,Director A,1987,110,6.3,318640,['Horror']
+Movie 65,", Horror, Sci-Fi",,2012,141,7.9,445761,"['', 'Horror', 'Sci-Fi']"
+Movie 66,Drama,Director D,1972,60,2.5,250510,['Drama']
+Movie 67,"Comedy, Drama",Director B,1984,100,8.1,159931,"['Comedy', 'Drama']"
+Movie 71,"Adventure, , Horror",Director C,2018,104,9.2,62234,"['Adventure', '', 'Horror']"
+Movie 72,"Adventure, Romance, Comedy",Director B,1999,106,5.6,399953,"['Adventure', 'Romance', 'Comedy']"
+Movie 73,"Unknown, Thriller",Director A,1971,155,1.5,241423,"['Unknown', 'Thriller']"
+Movie 74,"Unknown, Comedy",,2015,107,9.3,50945,"['Unknown', 'Comedy']"
+Movie 75,"Thriller, Romance",Director D,2004,136,4.3,35956,"['Thriller', 'Romance']"
+Movie 76,Horror,Director B,1979,149,7.7,349827,['Horror']
+Movie 78,Romance,,2012,135,3.9,353926,['Romance']
+Movie 79,"Unknown, Comedy, Drama",Director B,2012,74,8.2,105218,"['Unknown', 'Comedy', 'Drama']"
+Movie 80,"Thriller, Comedy",Director B,1990,84,6.1,25763,"['Thriller', 'Comedy']"
+Movie 82,"Sci-Fi, Horror, Thriller",Director B,1997,96,1.7,8484,"['Sci-Fi', 'Horror', 'Thriller']"
+Movie 84,"Action, Adventure",Director A,1989,98,9.1,99540,"['Action', 'Adventure']"
+Movie 85,"Action, ",Director B,1951,124,9.8,404173,"['Action', '']"
+Movie 86,"Drama, Thriller, Sci-Fi",Director D,1978,123,4.5,440575,"['Drama', 'Thriller', 'Sci-Fi']"
+Movie 87,"Adventure, Action",,2012,160,6.5,334772,"['Adventure', 'Action']"
+Movie 88,"Drama, Thriller",Director A,1978,109,5.5,162357,"['Drama', 'Thriller']"
+Movie 89,"Romance, Adventure, Drama",Director C,1955,92,2.9,114148,"['Romance', 'Adventure', 'Drama']"
+Movie 90,Unknown,Director D,1962,71,6.9,342626,['Unknown']
+Movie 92,Unknown,Director B,1981,91,1.9,397091,['Unknown']
+Movie 93,Sci-Fi,Director D,1953,91,5.0,479139,['Sci-Fi']
+Movie 94,Unknown,Director B,1986,67,8.8,286510,['Unknown']
+Movie 95,"Horror, Sci-Fi",Director A,1960,64,4.1,10701,"['Horror', 'Sci-Fi']"
+Movie 96,Romance,Director C,1964,85,1.0,456617,['Romance']
+Movie 97,Comedy,,2008,86,4.1,265284,['Comedy']
+Movie 99,Sci-Fi,,1998,148,8.1,374050,['Sci-Fi']
+Movie 100,"Action, Horror",Director D,1950,129,2.5,108146,"['Action', 'Horror']"
+Movie 101,"Horror, Action, Sci-Fi",Director D,2005,124,5.5,171348,"['Horror', 'Action', 'Sci-Fi']"
+Movie 102,"Unknown, Comedy, ",,1969,135,2.0,262517,"['Unknown', 'Comedy', '']"
+Movie 103,"Comedy, Drama, Unknown",Director D,1986,179,1.1,240400,"['Comedy', 'Drama', 'Unknown']"
+Movie 104,Action,Director C,2017,106,10.0,205587,['Action']
+Movie 105,"Action, Adventure, Comedy",Director B,1997,137,8.9,246312,"['Action', 'Adventure', 'Comedy']"
+Movie 108,Drama,,1956,124,5.7,347089,['Drama']
+Movie 110,"Adventure, ",Director D,2003,74,5.2,45231,"['Adventure', '']"
+Movie 111,"Romance, Adventure, Unknown",Director C,2007,159,1.5,482350,"['Romance', 'Adventure', 'Unknown']"
+Movie 112,"Thriller, Adventure",Director C,2006,104,3.2,453251,"['Thriller', 'Adventure']"
+Movie 113,"Adventure, Comedy, ",Director B,1980,74,8.0,1272,"['Adventure', 'Comedy', '']"
+Movie 115,", Comedy, Thriller",Director C,1980,125,1.8,479846,"['', 'Comedy', 'Thriller']"
+Movie 116,"Comedy, Unknown",Director C,1992,143,1.4,407436,"['Comedy', 'Unknown']"
+Movie 117,Romance,,2016,78,6.1,473964,['Romance']
+Movie 118,"Drama, Unknown, Adventure",Director D,2001,72,3.3,366864,"['Drama', 'Unknown', 'Adventure']"
+Movie 119,"Sci-Fi, Unknown, Drama",Director B,1955,104,1.6,156177,"['Sci-Fi', 'Unknown', 'Drama']"
+Movie 121,"Unknown, Romance",Director D,1977,164,5.9,361194,"['Unknown', 'Romance']"
+Movie 122,"Thriller, Sci-Fi",,1981,138,9.6,241646,"['Thriller', 'Sci-Fi']"
+Movie 123,"Thriller, ",Director C,2016,169,3.9,222930,"['Thriller', '']"
+Movie 124,", Drama, Sci-Fi",,1965,174,8.2,314424,"['', 'Drama', 'Sci-Fi']"
+Movie 127,"Comedy, Sci-Fi",Director B,1983,96,2.4,296168,"['Comedy', 'Sci-Fi']"
+Movie 129,"Horror, Thriller",Director D,1955,111,1.9,247767,"['Horror', 'Thriller']"
+Movie 130,"Comedy, Unknown, ",,1969,78,9.2,183514,"['Comedy', 'Unknown', '']"
+Movie 131,Horror,,1971,150,9.6,229050,['Horror']
+Movie 136,Drama,Director B,1953,148,5.9,235934,['Drama']
+Movie 137,", Adventure, Horror",Director C,2016,79,4.0,400143,"['', 'Adventure', 'Horror']"
+Movie 138,"Unknown, Comedy",,2009,96,2.6,78561,"['Unknown', 'Comedy']"
+Movie 140,"Horror, Unknown, ",Director B,2019,82,8.8,293874,"['Horror', 'Unknown', '']"
+Movie 141,Horror,Director D,2021,131,6.2,160594,['Horror']
+Movie 142,Adventure,Director D,1997,78,4.8,369379,['Adventure']
+Movie 143,", Thriller, Romance",,1961,157,1.5,210694,"['', 'Thriller', 'Romance']"
+Movie 144,"Romance, Sci-Fi, Comedy",Director C,1965,119,2.2,460160,"['Romance', 'Sci-Fi', 'Comedy']"
+Movie 145,"Sci-Fi, ",Director D,2019,138,9.1,482391,"['Sci-Fi', '']"
+Movie 147,"Unknown, Thriller",,1956,143,4.1,244788,"['Unknown', 'Thriller']"
+Movie 149,"Thriller, Drama",Director C,1964,89,3.8,217475,"['Thriller', 'Drama']"
+Movie 151,"Comedy, Sci-Fi, Romance",Director A,1976,76,8.3,349262,"['Comedy', 'Sci-Fi', 'Romance']"
+Movie 152,"Action, Romance",Director B,1966,175,6.7,270925,"['Action', 'Romance']"
+Movie 153,"Thriller, Unknown, Action",Director D,2010,89,7.0,288824,"['Thriller', 'Unknown', 'Action']"
+Movie 154,"Action, Romance, Unknown",Director D,1973,136,8.1,419886,"['Action', 'Romance', 'Unknown']"
+Movie 155,"Comedy, Horror, Sci-Fi",Director D,1971,173,5.6,465323,"['Comedy', 'Horror', 'Sci-Fi']"
+Movie 156,"Horror, Drama, Romance",Director B,1966,148,1.9,46016,"['Horror', 'Drama', 'Romance']"
+Movie 157,"Action, Adventure",,1993,122,8.8,329924,"['Action', 'Adventure']"
+Movie 158,Romance,Director A,1996,170,6.3,427769,['Romance']
+Movie 159,"Comedy, Romance",Director D,2021,77,3.3,142309,"['Comedy', 'Romance']"
+Movie 160,Unknown,,1999,164,5.8,389023,['Unknown']
+Movie 161,Unknown,Director B,2011,79,1.4,124871,['Unknown']
+Movie 162,Action,Director A,1951,75,7.3,384551,['Action']
+Movie 163,Drama,Director A,2003,89,9.5,128319,['Drama']
+Movie 164,"Unknown, Thriller",Director C,1965,130,2.6,153854,"['Unknown', 'Thriller']"
+Movie 166,"Sci-Fi, , Romance",Director B,1986,127,1.1,127304,"['Sci-Fi', '', 'Romance']"
+Movie 167,Comedy,Director A,1990,79,3.4,122874,['Comedy']
+Movie 172,"Romance, , Sci-Fi",Director C,1987,106,7.8,73342,"['Romance', '', 'Sci-Fi']"
+Movie 173,"Drama, Adventure, Action",,1965,114,7.4,265617,"['Drama', 'Adventure', 'Action']"
+Movie 175,Adventure,,1993,132,6.9,41247,['Adventure']
+Movie 177,Adventure,,1958,98,2.0,177899,['Adventure']
+Movie 178,", Adventure, Drama",Director B,2002,80,2.7,457588,"['', 'Adventure', 'Drama']"
+Movie 180,Unknown,Director A,1982,128,1.9,204610,['Unknown']
+Movie 181,Sci-Fi,Director D,2009,147,9.1,328306,['Sci-Fi']
+Movie 184,"Adventure, Drama, Romance",Director B,2011,164,4.3,386228,"['Adventure', 'Drama', 'Romance']"
+Movie 185,"Thriller, Romance, Unknown",,2005,133,3.0,392127,"['Thriller', 'Romance', 'Unknown']"
+Movie 187,Thriller,,2003,120,1.2,47824,['Thriller']
+Movie 188,Horror,Director C,2016,91,5.5,250828,['Horror']
+Movie 189,Adventure,Director B,2002,179,6.8,216565,['Adventure']
+Movie 190,"Thriller, Romance, ",,1990,137,2.2,200069,"['Thriller', 'Romance', '']"
+Movie 192,"Unknown, Drama, Sci-Fi",Director C,1962,139,8.7,204657,"['Unknown', 'Drama', 'Sci-Fi']"
+Movie 193,"Horror, Unknown, Thriller",Director A,1963,81,7.2,431322,"['Horror', 'Unknown', 'Thriller']"
+Movie 194,Unknown,Director D,1973,97,7.0,207669,['Unknown']
+Movie 195,"Drama, Unknown",Director C,2015,88,4.8,106422,"['Drama', 'Unknown']"
+Movie 196,"Adventure, Action",Director D,1979,148,4.9,381488,"['Adventure', 'Action']"
+Movie 198,"Thriller, Unknown, Adventure",Director D,1963,80,4.2,94483,"['Thriller', 'Unknown', 'Adventure']"
+Movie 199,Sci-Fi,,1999,93,1.6,81141,['Sci-Fi']
+Movie 201,Comedy,Director B,2005,129,5.5,292435,['Comedy']
+Movie 204,"Drama, Sci-Fi",Director C,1969,129,4.3,483067,"['Drama', 'Sci-Fi']"
+Movie 205,Action,Director D,2018,171,8.3,237960,['Action']
+Movie 206,Comedy,Director A,1984,121,6.1,331094,['Comedy']
+Movie 207,"Sci-Fi, , Unknown",Director C,1967,114,6.0,441142,"['Sci-Fi', '', 'Unknown']"
+Movie 208,", Drama",,2006,158,4.6,380752,"['', 'Drama']"
+Movie 209,"Horror, Romance",Director B,2007,118,4.6,309112,"['Horror', 'Romance']"
+Movie 210,Romance,Director D,1997,78,7.0,329080,['Romance']
+Movie 211,Unknown,Director B,1964,105,7.4,246332,['Unknown']
+Movie 212,Action,Director C,1957,179,1.4,119849,['Action']
+Movie 213,Action,Director D,2002,76,4.5,169831,['Action']
+Movie 214,"Romance, Horror",Director C,1982,137,5.6,53544,"['Romance', 'Horror']"
+Movie 216,Unknown,Director C,1958,139,2.7,436033,['Unknown']
+Movie 218,Unknown,Director C,1955,149,2.4,481031,['Unknown']
+Movie 219,"Action, Adventure",Director D,1973,160,7.1,167806,"['Action', 'Adventure']"
+Movie 220,Unknown,Director A,1976,146,6.7,112615,['Unknown']
+Movie 222,Thriller,,1956,70,7.7,404905,['Thriller']
+Movie 224,"Unknown, Drama, Thriller",Director B,2012,88,8.6,334475,"['Unknown', 'Drama', 'Thriller']"
+Movie 225,Action,,2020,140,7.0,114009,['Action']
+Movie 226,"Action, Romance, Sci-Fi",Director A,2001,173,5.1,41513,"['Action', 'Romance', 'Sci-Fi']"
+Movie 227,Horror,Director A,2022,155,5.4,310381,['Horror']
+Movie 228,"Adventure, Sci-Fi, Romance",Director B,2021,180,2.6,150942,"['Adventure', 'Sci-Fi', 'Romance']"
+Movie 229,Action,Director B,1998,177,2.9,88951,['Action']
+Movie 231,"Action, Thriller",Director A,2009,84,8.0,76698,"['Action', 'Thriller']"
+Movie 232,"Unknown, Comedy",,1953,72,2.5,285229,"['Unknown', 'Comedy']"
+Movie 233,Unknown,Director D,2016,90,1.1,481730,['Unknown']
+Movie 234,"Unknown, Sci-Fi",Director D,1990,154,6.8,31901,"['Unknown', 'Sci-Fi']"
+Movie 235,"Adventure, ",Director A,2003,136,9.0,386132,"['Adventure', '']"
+Movie 236,", Action",Director C,1971,150,6.4,488207,"['', 'Action']"
+Movie 238,"Comedy, Sci-Fi, Unknown",,1950,151,2.6,271048,"['Comedy', 'Sci-Fi', 'Unknown']"
+Movie 239,Action,Director B,1981,168,2.3,195495,['Action']
+Movie 240,Adventure,Director B,1953,143,5.8,392491,['Adventure']
+Movie 241,"Horror, Drama, Thriller",Director C,1951,69,7.6,463973,"['Horror', 'Drama', 'Thriller']"
+Movie 243,"Unknown, Action, ",Director B,1961,115,2.6,208455,"['Unknown', 'Action', '']"
+Movie 245,"Adventure, Unknown, Horror",,1950,65,3.3,115946,"['Adventure', 'Unknown', 'Horror']"
+Movie 246,"Unknown, Romance, Drama",Director D,1971,177,1.3,139125,"['Unknown', 'Romance', 'Drama']"
+Movie 247,Unknown,Director A,1989,87,4.3,10702,['Unknown']
+Movie 248,"Horror, Drama, Sci-Fi",Director B,1985,174,9.0,251871,"['Horror', 'Drama', 'Sci-Fi']"
+Movie 250,"Unknown, Adventure, Horror",Director A,1982,112,2.4,418361,"['Unknown', 'Adventure', 'Horror']"
+Movie 251,"Sci-Fi, Adventure, Romance",Director A,2018,142,7.8,175666,"['Sci-Fi', 'Adventure', 'Romance']"
+Movie 252,Unknown,Director A,1985,63,6.1,323365,['Unknown']
+Movie 253,"Sci-Fi, Romance, Drama",,1951,62,9.6,37808,"['Sci-Fi', 'Romance', 'Drama']"
+Movie 254,Unknown,Director B,1977,108,2.1,196581,['Unknown']
+Movie 255,Unknown,Director D,2007,63,9.4,19539,['Unknown']
+Movie 256,Drama,,1957,92,7.7,101041,['Drama']
+Movie 257,"Drama, Comedy",Director C,1962,61,4.5,17117,"['Drama', 'Comedy']"
+Movie 258,"Action, Unknown, Drama",Director B,1989,84,9.5,21088,"['Action', 'Unknown', 'Drama']"
+Movie 259,"Sci-Fi, Comedy",,2019,154,3.3,430705,"['Sci-Fi', 'Comedy']"
+Movie 260,Thriller,,1959,93,7.1,132062,['Thriller']
+Movie 262,"Thriller, Sci-Fi, Horror",,1973,153,5.6,254348,"['Thriller', 'Sci-Fi', 'Horror']"
+Movie 264,"Unknown, Thriller",Director D,1950,100,6.8,494981,"['Unknown', 'Thriller']"
+Movie 265,Sci-Fi,,2005,104,6.5,117133,['Sci-Fi']
+Movie 266,"Sci-Fi, Romance",Director B,1987,81,5.4,475997,"['Sci-Fi', 'Romance']"
+Movie 267,"Action, ",,1951,142,8.3,231582,"['Action', '']"
+Movie 268,"Unknown, Comedy, Romance",,1972,130,7.6,352403,"['Unknown', 'Comedy', 'Romance']"
+Movie 269,"Drama, Horror",Director B,1973,135,9.9,274075,"['Drama', 'Horror']"
+Movie 270,"Comedy, Horror",Director C,1965,93,3.4,370460,"['Comedy', 'Horror']"
+Movie 271,Unknown,,2016,164,5.2,175965,['Unknown']
+Movie 272,Comedy,Director A,2011,101,1.7,413964,['Comedy']
+Movie 273,", Drama",Director B,2004,123,2.5,147917,"['', 'Drama']"
+Movie 274,Unknown,Director B,1967,117,4.9,364425,['Unknown']
+Movie 276,Thriller,,1971,116,3.1,258177,['Thriller']
+Movie 277,"Sci-Fi, Romance",,2016,74,2.2,138975,"['Sci-Fi', 'Romance']"
+Movie 278,", Action",,2021,163,1.2,386991,"['', 'Action']"
+Movie 280,"Drama, Sci-Fi",Director A,1985,166,6.5,424500,"['Drama', 'Sci-Fi']"
+Movie 281,"Adventure, Drama",Director B,1956,167,4.4,329139,"['Adventure', 'Drama']"
+Movie 282,Romance,,1952,163,4.6,59386,['Romance']
+Movie 283,Sci-Fi,Director D,1997,65,8.9,6892,['Sci-Fi']
+Movie 285,Thriller,Director C,1985,108,9.1,401912,['Thriller']
+Movie 287,"Unknown, ",Director B,1998,109,9.7,249373,"['Unknown', '']"
+Movie 288,"Drama, Thriller",,1998,138,3.7,494439,"['Drama', 'Thriller']"
+Movie 289,Sci-Fi,Director D,1992,82,5.8,293260,['Sci-Fi']
+Movie 290,Horror,,1994,85,3.6,108010,['Horror']
+Movie 291,Romance,Director C,1985,172,5.2,447485,['Romance']
+Movie 294,"Action, Drama, Thriller",Director C,1967,165,2.2,303206,"['Action', 'Drama', 'Thriller']"
+Movie 296,Unknown,Director C,2002,79,1.5,61145,['Unknown']
+Movie 297,Adventure,Director A,1963,102,3.5,467231,['Adventure']
+Movie 298,"Sci-Fi, Romance",,1962,116,6.9,236518,"['Sci-Fi', 'Romance']"
+Movie 300,Drama,Director A,2011,119,2.6,436659,['Drama']
+Movie 303,"Drama, Adventure, ",,1991,67,4.3,483325,"['Drama', 'Adventure', '']"
+Movie 304,"Drama, Adventure, ",Director C,2004,173,8.6,401787,"['Drama', 'Adventure', '']"
+Movie 305,"Adventure, Horror",Director B,2023,85,2.3,339699,"['Adventure', 'Horror']"
+Movie 307,"Adventure, Sci-Fi, Unknown",Director A,1989,157,4.9,65463,"['Adventure', 'Sci-Fi', 'Unknown']"
+Movie 309,Action,Director D,2021,176,4.1,92166,['Action']
+Movie 310,Romance,,1978,158,4.5,64891,['Romance']
+Movie 312,Drama,Director D,2015,113,6.5,232474,['Drama']
+Movie 314,Sci-Fi,,2002,102,5.8,397573,['Sci-Fi']
+Movie 315,"Action, Unknown, Thriller",,2000,107,5.5,31911,"['Action', 'Unknown', 'Thriller']"
+Movie 316,"Sci-Fi, Thriller",Director B,1992,113,5.6,281480,"['Sci-Fi', 'Thriller']"
+Movie 317,"Thriller, Adventure, Drama",,2004,111,4.8,23968,"['Thriller', 'Adventure', 'Drama']"
+Movie 318,"Horror, Action, Adventure",Director B,2018,107,7.4,294734,"['Horror', 'Action', 'Adventure']"
+Movie 320,"Unknown, , Drama",Director D,1990,77,7.5,326971,"['Unknown', '', 'Drama']"
+Movie 321,Sci-Fi,Director D,1997,115,1.4,331955,['Sci-Fi']
+Movie 322,"Sci-Fi, Adventure",Director B,1953,112,9.1,433581,"['Sci-Fi', 'Adventure']"
+Movie 323,"Thriller, Romance",Director C,1987,85,8.1,189301,"['Thriller', 'Romance']"
+Movie 324,Sci-Fi,Director C,1967,165,1.7,345166,['Sci-Fi']
+Movie 325,", Sci-Fi",Director B,1960,140,4.9,381870,"['', 'Sci-Fi']"
+Movie 326,"Unknown, Drama",Director D,1973,156,4.0,16219,"['Unknown', 'Drama']"
+Movie 327,"Action, Comedy, Drama",Director A,2018,94,4.2,321739,"['Action', 'Comedy', 'Drama']"
+Movie 328,Horror,,1974,103,4.0,233760,['Horror']
+Movie 329,"Unknown, Sci-Fi, Adventure",,1959,129,5.2,154401,"['Unknown', 'Sci-Fi', 'Adventure']"
+Movie 330,"Thriller, Horror",Director C,2005,159,7.5,140688,"['Thriller', 'Horror']"
+Movie 331,Unknown,Director C,1953,178,2.1,136728,['Unknown']
+Movie 332,Sci-Fi,Director D,1968,134,7.9,334348,['Sci-Fi']
+Movie 333,"Comedy, Adventure",,2017,163,8.2,202384,"['Comedy', 'Adventure']"
+Movie 335,Horror,Director D,1992,126,3.2,317222,['Horror']
+Movie 337,Sci-Fi,,2013,68,1.6,330379,['Sci-Fi']
+Movie 339,"Action, Comedy, Horror",,1980,154,3.7,197653,"['Action', 'Comedy', 'Horror']"
+Movie 340,Thriller,Director A,1964,135,6.5,406061,['Thriller']
+Movie 341,Sci-Fi,,2001,69,4.8,438259,['Sci-Fi']
+Movie 342,"Thriller, Comedy, Adventure",Director C,1966,136,3.1,380341,"['Thriller', 'Comedy', 'Adventure']"
+Movie 343,", Horror",,1996,71,5.9,118555,"['', 'Horror']"
+Movie 345,"Unknown, Comedy",Director A,1997,141,7.4,137599,"['Unknown', 'Comedy']"
+Movie 346,"Thriller, Comedy",Director A,1981,152,6.5,447215,"['Thriller', 'Comedy']"
+Movie 347,"Drama, Thriller, Adventure",Director B,1979,63,5.2,139169,"['Drama', 'Thriller', 'Adventure']"
+Movie 348,Drama,Director C,2001,152,9.9,419568,['Drama']
+Movie 349,"Sci-Fi, Romance, Adventure",Director B,1977,69,9.6,97869,"['Sci-Fi', 'Romance', 'Adventure']"
+Movie 350,Drama,,1984,92,6.6,336339,['Drama']
+Movie 351,"Action, Comedy",Director B,1961,72,10.0,178017,"['Action', 'Comedy']"
+Movie 352,Drama,Director D,1973,166,4.7,210046,['Drama']
+Movie 353,"Comedy, Thriller",,2016,132,6.8,75291,"['Comedy', 'Thriller']"
+Movie 354,"Sci-Fi, Action, Adventure",,1995,169,2.9,253149,"['Sci-Fi', 'Action', 'Adventure']"
+Movie 355,Drama,Director D,1961,132,6.1,356467,['Drama']
+Movie 356,Drama,Director A,1951,84,2.4,275056,['Drama']
+Movie 357,"Action, Romance, Unknown",,2008,145,2.2,195690,"['Action', 'Romance', 'Unknown']"
+Movie 358,", Sci-Fi",Director D,2006,150,2.9,262017,"['', 'Sci-Fi']"
+Movie 359,"Adventure, Comedy, Romance",,2014,167,5.7,15985,"['Adventure', 'Comedy', 'Romance']"
+Movie 360,"Adventure, , Thriller",Director A,2000,154,7.1,48703,"['Adventure', '', 'Thriller']"
+Movie 361,Action,Director D,2011,167,7.4,282947,['Action']
+Movie 363,"Action, Unknown, Adventure",,1996,140,6.2,419027,"['Action', 'Unknown', 'Adventure']"
+Movie 364,"Thriller, Drama, Comedy",Director B,2022,106,8.6,39813,"['Thriller', 'Drama', 'Comedy']"
+Movie 365,", Thriller",Director D,1957,160,9.6,143449,"['', 'Thriller']"
+Movie 366,"Horror, Romance, Drama",Director D,1950,126,7.1,481355,"['Horror', 'Romance', 'Drama']"
+Movie 367,"Thriller, Adventure, Unknown",Director D,1972,130,7.9,200754,"['Thriller', 'Adventure', 'Unknown']"
+Movie 368,"Action, Drama, Horror",,1995,148,5.9,428216,"['Action', 'Drama', 'Horror']"
+Movie 371,"Horror, Unknown, Drama",Director B,1975,83,3.3,474148,"['Horror', 'Unknown', 'Drama']"
+Movie 372,"Sci-Fi, Horror, Romance",Director A,2013,142,5.6,97486,"['Sci-Fi', 'Horror', 'Romance']"
+Movie 374,"Comedy, Drama",Director B,1987,87,5.6,83011,"['Comedy', 'Drama']"
+Movie 375,"Romance, Comedy",Director B,1974,61,8.8,72339,"['Romance', 'Comedy']"
+Movie 377,"Unknown, , Comedy",,1979,89,6.1,496628,"['Unknown', '', 'Comedy']"
+Movie 378,Horror,Director B,1982,117,5.4,5034,['Horror']
+Movie 379,"Adventure, Thriller",Director D,1997,144,5.7,462973,"['Adventure', 'Thriller']"
+Movie 380,Romance,Director C,1973,131,4.1,44322,['Romance']
+Movie 381,Comedy,,1958,132,3.8,72962,['Comedy']
+Movie 382,Drama,Director C,2019,87,8.3,84667,['Drama']
+Movie 383,"Unknown, Thriller, Romance",Director A,2020,73,6.6,190685,"['Unknown', 'Thriller', 'Romance']"
+Movie 384,"Unknown, Sci-Fi, Thriller",Director A,1955,66,8.6,8150,"['Unknown', 'Sci-Fi', 'Thriller']"
+Movie 385,"Drama, Unknown",,1974,69,9.3,252985,"['Drama', 'Unknown']"
+Movie 386,"Horror, Drama",,1955,63,8.2,269200,"['Horror', 'Drama']"
+Movie 387,"Sci-Fi, Unknown, Action",Director D,2017,127,1.4,374024,"['Sci-Fi', 'Unknown', 'Action']"
+Movie 388,"Sci-Fi, Thriller",,2014,155,9.1,434397,"['Sci-Fi', 'Thriller']"
+Movie 389,", Romance, Adventure",,2018,170,7.8,438633,"['', 'Romance', 'Adventure']"
+Movie 390,Unknown,Director D,1971,61,2.7,430954,['Unknown']
+Movie 391,"Drama, Comedy, ",Director A,1967,160,3.4,328386,"['Drama', 'Comedy', '']"
+Movie 392,Adventure,Director B,1990,146,7.8,354634,['Adventure']
+Movie 393,", Adventure, Thriller",,1997,175,6.6,64917,"['', 'Adventure', 'Thriller']"
+Movie 396,Sci-Fi,,2006,83,2.1,96905,['Sci-Fi']
+Movie 397,Drama,Director B,2009,116,1.9,221354,['Drama']
+Movie 399,Action,,1974,120,1.2,332021,['Action']
+Movie 400,"Unknown, Thriller",Director C,1953,139,9.8,18642,"['Unknown', 'Thriller']"
+Movie 402,"Unknown, Horror",Director D,2021,137,2.7,86265,"['Unknown', 'Horror']"
+Movie 403,"Sci-Fi, Romance",,1978,96,9.6,215955,"['Sci-Fi', 'Romance']"
+Movie 404,"Comedy, Unknown",Director B,2001,64,4.1,261550,"['Comedy', 'Unknown']"
+Movie 405,Unknown,Director C,2013,93,4.0,164968,['Unknown']
+Movie 406,"Unknown, , Drama",Director A,1973,83,5.1,371741,"['Unknown', '', 'Drama']"
+Movie 407,"Comedy, Horror",,1953,94,9.1,460539,"['Comedy', 'Horror']"
+Movie 408,"Sci-Fi, Adventure, ",,1970,155,7.9,301370,"['Sci-Fi', 'Adventure', '']"
+Movie 409,"Comedy, Adventure, Romance",Director A,1954,133,9.9,207519,"['Comedy', 'Adventure', 'Romance']"
+Movie 410,"Horror, Romance, Drama",Director D,2019,65,7.8,52387,"['Horror', 'Romance', 'Drama']"
+Movie 411,"Romance, , Comedy",,1962,97,1.6,235798,"['Romance', '', 'Comedy']"
+Movie 413,"Romance, Adventure",Director A,1990,86,7.0,140813,"['Romance', 'Adventure']"
+Movie 415,"Comedy, , Unknown",Director B,1963,129,1.0,444472,"['Comedy', '', 'Unknown']"
+Movie 416,"Unknown, Action, Sci-Fi",Director B,1980,176,2.5,213359,"['Unknown', 'Action', 'Sci-Fi']"
+Movie 417,"Action, Sci-Fi, Thriller",Director B,1996,121,6.8,10232,"['Action', 'Sci-Fi', 'Thriller']"
+Movie 418,Sci-Fi,Director B,1992,86,3.1,270467,['Sci-Fi']
+Movie 419,Drama,,2011,165,1.6,432388,['Drama']
+Movie 420,"Horror, Thriller",Director C,1982,70,8.0,275890,"['Horror', 'Thriller']"
+Movie 421,"Horror, Drama, Sci-Fi",,1982,140,8.2,399758,"['Horror', 'Drama', 'Sci-Fi']"
+Movie 422,", Unknown",Director B,1967,146,8.0,378435,"['', 'Unknown']"
+Movie 423,Horror,Director B,2022,158,6.2,71455,['Horror']
+Movie 424,Adventure,Director D,1954,88,7.8,484796,['Adventure']
+Movie 425,"Sci-Fi, Romance",Director A,1972,158,2.8,392144,"['Sci-Fi', 'Romance']"
+Movie 426,", Romance, Thriller",Director D,1971,88,5.7,354576,"['', 'Romance', 'Thriller']"
+Movie 427,"Romance, Thriller",,2003,154,8.7,417894,"['Romance', 'Thriller']"
+Movie 428,"Romance, Sci-Fi, Thriller",Director B,2006,180,1.1,288764,"['Romance', 'Sci-Fi', 'Thriller']"
+Movie 429,Horror,Director B,2000,106,2.0,346563,['Horror']
+Movie 431,"Action, Sci-Fi",Director B,2023,129,2.9,339508,"['Action', 'Sci-Fi']"
+Movie 432,"Adventure, Action, Comedy",Director A,2021,112,8.3,276937,"['Adventure', 'Action', 'Comedy']"
+Movie 433,"Horror, Adventure, ",,1968,178,5.7,23966,"['Horror', 'Adventure', '']"
+Movie 434,Comedy,,2007,75,8.9,406906,['Comedy']
+Movie 435,Comedy,,1984,124,4.2,268691,['Comedy']
+Movie 436,"Romance, Action, Adventure",Director A,2016,173,9.2,112211,"['Romance', 'Action', 'Adventure']"
+Movie 437,Action,Director C,1955,179,8.8,170124,['Action']
+Movie 439,"Adventure, Horror",Director D,2002,178,9.4,435620,"['Adventure', 'Horror']"
+Movie 440,Drama,Director B,2001,146,2.8,297040,['Drama']
+Movie 441,"Comedy, Action",,2004,138,4.3,484162,"['Comedy', 'Action']"
+Movie 442,"Romance, ",,1993,78,7.4,11949,"['Romance', '']"
+Movie 443,"Unknown, , Adventure",Director C,1975,116,2.6,53833,"['Unknown', '', 'Adventure']"
+Movie 444,Thriller,Director B,1951,158,7.8,387543,['Thriller']
+Movie 445,Sci-Fi,Director C,1973,86,2.7,258946,['Sci-Fi']
+Movie 446,Unknown,Director B,1996,111,1.6,97115,['Unknown']
+Movie 447,"Thriller, Action, Sci-Fi",Director D,2020,162,2.8,277865,"['Thriller', 'Action', 'Sci-Fi']"
+Movie 448,"Action, Sci-Fi",,1992,129,6.9,204081,"['Action', 'Sci-Fi']"
+Movie 449,Sci-Fi,Director A,1974,77,9.5,403016,['Sci-Fi']
+Movie 450,"Romance, , Comedy",Director C,1965,98,1.5,296444,"['Romance', '', 'Comedy']"
+Movie 451,Romance,Director B,2005,129,5.4,25239,['Romance']
+Movie 453,"Horror, Comedy, Drama",Director C,1974,152,4.7,403962,"['Horror', 'Comedy', 'Drama']"
+Movie 454,"Action, Sci-Fi, Horror",Director D,1953,145,2.1,172388,"['Action', 'Sci-Fi', 'Horror']"
+Movie 455,"Thriller, Drama",Director A,1953,88,8.0,329651,"['Thriller', 'Drama']"
+Movie 456,Thriller,,2012,71,7.6,331574,['Thriller']
+Movie 457,"Thriller, Horror",Director B,2003,96,1.7,128692,"['Thriller', 'Horror']"
+Movie 458,"Drama, ",Director D,2021,131,3.2,313585,"['Drama', '']"
+Movie 459,"Thriller, Drama",Director B,2009,89,2.9,89040,"['Thriller', 'Drama']"
+Movie 460,", Sci-Fi",Director B,2022,142,3.5,164417,"['', 'Sci-Fi']"
+Movie 461,"Romance, Comedy",Director A,1979,117,3.0,342915,"['Romance', 'Comedy']"
+Movie 463,"Unknown, Thriller, Drama",,2007,90,8.6,389702,"['Unknown', 'Thriller', 'Drama']"
+Movie 464,Unknown,Director C,1989,118,9.0,281584,['Unknown']
+Movie 465,"Unknown, Comedy",Director D,1966,116,6.1,297195,"['Unknown', 'Comedy']"
+Movie 466,"Romance, Drama, Action",,1993,172,7.5,439443,"['Romance', 'Drama', 'Action']"
+Movie 467,"Romance, Drama, Horror",Director A,1992,127,1.9,225023,"['Romance', 'Drama', 'Horror']"
+Movie 470,"Drama, Action, Sci-Fi",Director A,1992,78,4.7,288417,"['Drama', 'Action', 'Sci-Fi']"
+Movie 471,"Drama, Comedy, Adventure",Director D,1982,120,4.7,377925,"['Drama', 'Comedy', 'Adventure']"
+Movie 472,Comedy,Director A,1969,136,1.2,9449,['Comedy']
+Movie 473,"Action, Thriller, Comedy",Director D,1962,79,5.6,112474,"['Action', 'Thriller', 'Comedy']"
+Movie 474,Horror,Director D,2001,114,6.9,438974,['Horror']
+Movie 476,"Comedy, Thriller",,1987,92,1.7,396728,"['Comedy', 'Thriller']"
+Movie 477,"Unknown, Horror",Director A,1979,139,2.9,332024,"['Unknown', 'Horror']"
+Movie 478,", Horror, Thriller",Director C,2016,97,9.8,256559,"['', 'Horror', 'Thriller']"
+Movie 480,Sci-Fi,Director D,2003,105,5.0,392234,['Sci-Fi']
+Movie 481,"Thriller, Action, Horror",Director B,2015,159,9.2,355711,"['Thriller', 'Action', 'Horror']"
+Movie 482,"Adventure, Horror",,1979,139,4.2,368076,"['Adventure', 'Horror']"
+Movie 483,Unknown,Director B,1992,107,8.6,65906,['Unknown']
+Movie 484,"Unknown, Sci-Fi, Romance",,1952,76,1.2,301282,"['Unknown', 'Sci-Fi', 'Romance']"
+Movie 485,Sci-Fi,Director A,1973,137,9.7,418860,['Sci-Fi']
+Movie 486,"Unknown, ",,1971,96,8.4,360973,"['Unknown', '']"
+Movie 487,"Sci-Fi, Horror, Unknown",Director C,1976,117,9.1,475386,"['Sci-Fi', 'Horror', 'Unknown']"
+Movie 488,"Sci-Fi, Comedy",Director C,1959,77,9.5,240785,"['Sci-Fi', 'Comedy']"
+Movie 489,", Thriller",Director D,1998,105,9.7,251345,"['', 'Thriller']"
+Movie 490,Comedy,Director A,2014,172,8.0,145682,['Comedy']
+Movie 491,"Thriller, Action",Director B,2016,115,9.1,56385,"['Thriller', 'Action']"
+Movie 492,"Drama, Horror, Adventure",Director D,1972,133,4.8,70692,"['Drama', 'Horror', 'Adventure']"
+Movie 495,Thriller,,1998,86,5.9,42196,['Thriller']
+Movie 496,Romance,Director C,1992,152,5.8,491653,['Romance']
+Movie 497,Sci-Fi,Director D,1986,156,3.3,6654,['Sci-Fi']
+Movie 498,"Horror, Comedy, Drama",,1984,78,9.4,108092,"['Horror', 'Comedy', 'Drama']"
+Movie 499,"Thriller, ",Director B,1975,70,9.1,309275,"['Thriller', '']"
+Movie 500,"Comedy, Sci-Fi, Romance",,2011,121,2.5,237077,"['Comedy', 'Sci-Fi', 'Romance']"
+Movie 501,", Unknown",Director B,1978,142,8.6,75819,"['', 'Unknown']"
+Movie 502,Drama,,2011,97,5.7,467102,['Drama']
+Movie 503,"Drama, Horror, Action",,1991,64,4.2,25299,"['Drama', 'Horror', 'Action']"
+Movie 504,Comedy,,2012,95,8.4,245721,['Comedy']
+Movie 505,Thriller,Director A,1963,145,7.8,125073,['Thriller']
+Movie 506,"Adventure, Drama",Director B,2018,135,9.7,356149,"['Adventure', 'Drama']"
+Movie 508,Unknown,,1968,170,5.8,332054,['Unknown']
+Movie 509,", Horror",Director B,2006,167,7.3,489728,"['', 'Horror']"
+Movie 510,Sci-Fi,,1975,132,7.4,376489,['Sci-Fi']
+Movie 511,"Comedy, Thriller, Unknown",Director C,1988,109,6.8,33145,"['Comedy', 'Thriller', 'Unknown']"
+Movie 514,Sci-Fi,,2020,107,5.2,111375,['Sci-Fi']
+Movie 515,Unknown,Director D,1958,135,4.4,126401,['Unknown']
+Movie 516,"Action, Thriller",,2010,158,5.9,270279,"['Action', 'Thriller']"
+Movie 517,"Adventure, Drama, Thriller",Director D,1950,122,5.6,56296,"['Adventure', 'Drama', 'Thriller']"
+Movie 519,Action,Director D,1973,154,3.2,233185,['Action']
+Movie 520,"Comedy, Drama, Adventure",Director D,2014,157,9.0,489662,"['Comedy', 'Drama', 'Adventure']"
+Movie 521,Unknown,Director A,1981,93,8.6,476657,['Unknown']
+Movie 522,"Horror, Action, Romance",Director B,2021,172,7.2,66693,"['Horror', 'Action', 'Romance']"
+Movie 523,"Romance, Drama, Thriller",Director B,1984,160,1.8,130050,"['Romance', 'Drama', 'Thriller']"
+Movie 524,", Comedy, Sci-Fi",Director B,1978,164,6.5,16700,"['', 'Comedy', 'Sci-Fi']"
+Movie 525,Horror,Director A,1970,61,7.2,294198,['Horror']
+Movie 526,"Romance, Horror",Director A,1982,64,3.4,390853,"['Romance', 'Horror']"
+Movie 529,"Sci-Fi, Action, Horror",Director A,1986,149,8.6,120534,"['Sci-Fi', 'Action', 'Horror']"
+Movie 531,Adventure,Director B,1966,117,7.9,399867,['Adventure']
+Movie 533,"Thriller, Sci-Fi",,2003,124,9.2,439460,"['Thriller', 'Sci-Fi']"
+Movie 534,"Adventure, Unknown",Director A,1960,170,8.6,407695,"['Adventure', 'Unknown']"
+Movie 536,Thriller,,2018,60,5.7,52705,['Thriller']
+Movie 538,"Comedy, Adventure",Director B,2015,100,3.6,158473,"['Comedy', 'Adventure']"
+Movie 539,"Action, , Horror",Director A,2002,114,6.5,366867,"['Action', '', 'Horror']"
+Movie 540,Adventure,Director B,1970,149,9.7,71035,['Adventure']
+Movie 541,Unknown,Director A,1962,107,4.5,71230,['Unknown']
+Movie 542,"Drama, Adventure, Comedy",,1970,160,6.8,415665,"['Drama', 'Adventure', 'Comedy']"
+Movie 544,Horror,Director D,2016,158,1.7,420260,['Horror']
+Movie 545,"Romance, Comedy, Adventure",Director D,1974,123,4.2,165691,"['Romance', 'Comedy', 'Adventure']"
+Movie 548,Horror,Director B,1970,176,4.1,217008,['Horror']
+Movie 549,"Horror, Adventure, Comedy",,2000,110,2.6,222262,"['Horror', 'Adventure', 'Comedy']"
+Movie 550,"Action, Comedy",Director A,1981,102,5.9,67980,"['Action', 'Comedy']"
+Movie 551,"Thriller, Drama, ",Director D,1994,89,5.8,67786,"['Thriller', 'Drama', '']"
+Movie 552,Horror,,1975,132,3.5,273707,['Horror']
+Movie 553,"Horror, Sci-Fi",Director C,1984,86,1.3,436690,"['Horror', 'Sci-Fi']"
+Movie 555,Comedy,,1967,102,9.2,129172,['Comedy']
+Movie 556,"Romance, Adventure, Horror",Director C,1987,145,7.1,416859,"['Romance', 'Adventure', 'Horror']"
+Movie 558,"Thriller, Action, Comedy",Director A,1967,120,1.8,155468,"['Thriller', 'Action', 'Comedy']"
+Movie 559,"Sci-Fi, Action",,1965,175,1.4,407956,"['Sci-Fi', 'Action']"
+Movie 560,Sci-Fi,Director C,1982,122,5.9,633,['Sci-Fi']
+Movie 561,Horror,Director A,2004,120,6.9,153564,['Horror']
+Movie 563,Horror,,1973,60,1.3,474186,['Horror']
+Movie 565,"Comedy, Drama",Director D,1968,73,2.0,6154,"['Comedy', 'Drama']"
+Movie 566,Unknown,Director A,1953,124,3.8,92428,['Unknown']
+Movie 567,", Unknown",Director D,1963,88,3.8,267494,"['', 'Unknown']"
+Movie 570,"Horror, Unknown, Drama",Director D,1976,64,1.3,11497,"['Horror', 'Unknown', 'Drama']"
+Movie 571,"Adventure, Comedy, Romance",Director A,2016,77,6.7,363908,"['Adventure', 'Comedy', 'Romance']"
+Movie 572,"Adventure, Action, Unknown",,1964,111,2.5,187390,"['Adventure', 'Action', 'Unknown']"
+Movie 576,"Horror, Thriller",Director C,1952,145,1.3,300056,"['Horror', 'Thriller']"
+Movie 577,"Adventure, Drama",Director C,2001,155,8.4,22320,"['Adventure', 'Drama']"
+Movie 578,"Action, Horror, Comedy",,2011,151,8.3,16294,"['Action', 'Horror', 'Comedy']"
+Movie 579,Action,Director A,1987,146,8.3,399730,['Action']
+Movie 580,"Comedy, Drama, Adventure",Director A,2010,131,5.1,111379,"['Comedy', 'Drama', 'Adventure']"
+Movie 581,"Action, Sci-Fi",Director A,1973,152,2.0,427310,"['Action', 'Sci-Fi']"
+Movie 582,Thriller,Director D,2018,117,1.2,450894,['Thriller']
+Movie 583,Thriller,Director A,2020,144,5.6,441046,['Thriller']
+Movie 584,"Romance, Action, Horror",Director B,2009,154,3.8,260263,"['Romance', 'Action', 'Horror']"
+Movie 585,"Action, Thriller, Sci-Fi",,2006,148,8.6,370411,"['Action', 'Thriller', 'Sci-Fi']"
+Movie 587,", Comedy",Director C,1980,153,6.7,162419,"['', 'Comedy']"
+Movie 588,"Thriller, Horror, ",Director C,1969,77,3.0,87648,"['Thriller', 'Horror', '']"
+Movie 589,"Comedy, Sci-Fi, Horror",,1964,169,8.4,323814,"['Comedy', 'Sci-Fi', 'Horror']"
+Movie 591,Unknown,,2005,96,5.1,431833,['Unknown']
+Movie 592,"Thriller, Drama, Comedy",Director D,1992,106,5.7,91008,"['Thriller', 'Drama', 'Comedy']"
+Movie 593,"Thriller, Comedy",Director A,1990,65,4.4,283859,"['Thriller', 'Comedy']"
+Movie 594,"Comedy, Adventure",Director C,2002,148,3.0,393758,"['Comedy', 'Adventure']"
+Movie 595,Romance,Director D,1981,67,3.8,415339,['Romance']
+Movie 597,"Horror, Sci-Fi",,2006,110,3.2,227211,"['Horror', 'Sci-Fi']"
+Movie 598,", Thriller",,1987,80,8.4,295228,"['', 'Thriller']"
+Movie 600,"Drama, Action, Horror",Director B,1986,62,4.7,219531,"['Drama', 'Action', 'Horror']"
+Movie 602,Horror,Director C,1970,160,6.4,178997,['Horror']
+Movie 603,Action,Director C,2015,114,7.2,307343,['Action']
+Movie 604,Horror,Director A,2011,156,7.4,182871,['Horror']
+Movie 605,"Thriller, Drama, Comedy",Director C,1984,94,7.4,111367,"['Thriller', 'Drama', 'Comedy']"
+Movie 606,"Action, Romance",,1955,106,3.6,465512,"['Action', 'Romance']"
+Movie 607,"Unknown, Thriller",Director B,1962,175,8.5,307002,"['Unknown', 'Thriller']"
+Movie 610,Adventure,,1951,104,9.9,299723,['Adventure']
+Movie 611,Thriller,,1993,161,3.6,209038,['Thriller']
+Movie 612,"Unknown, Drama",,2006,105,7.2,299559,"['Unknown', 'Drama']"
+Movie 613,Horror,Director A,1981,168,3.9,121551,['Horror']
+Movie 614,Adventure,,1970,143,3.1,294834,['Adventure']
+Movie 615,Thriller,,1970,64,5.6,155482,['Thriller']
+Movie 616,"Drama, Sci-Fi, Comedy",Director D,2014,151,2.3,143676,"['Drama', 'Sci-Fi', 'Comedy']"
+Movie 617,Unknown,Director C,1994,176,8.6,378949,['Unknown']
+Movie 618,"Romance, , Thriller",,2002,129,2.0,182805,"['Romance', '', 'Thriller']"
+Movie 619,"Horror, Action",Director B,2007,150,8.9,266324,"['Horror', 'Action']"
+Movie 620,", Sci-Fi",,2011,61,1.9,471648,"['', 'Sci-Fi']"
+Movie 621,"Sci-Fi, Thriller",Director A,1954,82,5.7,325008,"['Sci-Fi', 'Thriller']"
+Movie 622,"Unknown, Comedy",Director A,1950,167,6.9,265650,"['Unknown', 'Comedy']"
+Movie 623,Action,Director D,2022,74,3.2,482312,['Action']
+Movie 624,Unknown,Director A,1998,166,8.3,123392,['Unknown']
+Movie 625,"Horror, Thriller",Director A,1995,67,7.3,185172,"['Horror', 'Thriller']"
+Movie 626,"Action, Unknown",Director B,1983,102,7.3,104443,"['Action', 'Unknown']"
+Movie 628,"Action, Unknown, Romance",Director A,2020,170,7.9,366002,"['Action', 'Unknown', 'Romance']"
+Movie 629,"Action, Unknown, ",Director B,1990,143,6.8,30167,"['Action', 'Unknown', '']"
+Movie 630,"Sci-Fi, Romance",Director D,1990,65,2.2,277877,"['Sci-Fi', 'Romance']"
+Movie 631,"Adventure, ",Director A,1953,158,4.2,26391,"['Adventure', '']"
+Movie 633,Romance,Director C,1964,67,7.8,232046,['Romance']
+Movie 636,"Comedy, Horror",,2015,94,5.9,121662,"['Comedy', 'Horror']"
+Movie 637,"Adventure, Horror",Director D,1971,60,1.5,2669,"['Adventure', 'Horror']"
+Movie 638,"Horror, Adventure",,1953,102,1.4,266527,"['Horror', 'Adventure']"
+Movie 639,"Sci-Fi, , Comedy",,1970,121,2.1,425537,"['Sci-Fi', '', 'Comedy']"
+Movie 640,"Thriller, Unknown",Director C,1962,112,7.9,47423,"['Thriller', 'Unknown']"
+Movie 641,"Unknown, Comedy",Director B,2017,133,3.5,342299,"['Unknown', 'Comedy']"
+Movie 642,"Horror, Drama",Director B,2023,91,6.0,132689,"['Horror', 'Drama']"
+Movie 643,"Thriller, Sci-Fi, Action",Director C,1998,60,9.5,37506,"['Thriller', 'Sci-Fi', 'Action']"
+Movie 644,Romance,,1953,171,9.3,428874,['Romance']
+Movie 645,"Drama, Thriller, Horror",Director B,1989,77,7.1,401875,"['Drama', 'Thriller', 'Horror']"
+Movie 646,"Horror, ",Director B,2018,74,2.2,303042,"['Horror', '']"
+Movie 647,"Romance, Thriller",Director B,1996,180,3.2,23265,"['Romance', 'Thriller']"
+Movie 648,"Drama, Comedy",Director C,2001,64,7.7,424687,"['Drama', 'Comedy']"
+Movie 649,"Drama, Action",Director D,1984,118,4.3,32470,"['Drama', 'Action']"
+Movie 650,Unknown,Director D,1975,141,1.4,237546,['Unknown']
+Movie 651,Romance,,2019,124,8.6,273027,['Romance']
+Movie 652,Unknown,Director D,1976,121,5.2,487532,['Unknown']
+Movie 653,Romance,Director A,2002,175,8.9,267232,['Romance']
+Movie 654,", Unknown, Action",,2001,129,5.6,230802,"['', 'Unknown', 'Action']"
+Movie 655,Drama,,1994,161,9.7,137011,['Drama']
+Movie 656,"Unknown, Adventure, ",,1970,101,6.0,183773,"['Unknown', 'Adventure', '']"
+Movie 657,Romance,,1991,156,5.5,82590,['Romance']
+Movie 658,", Sci-Fi",Director C,2008,100,7.3,345423,"['', 'Sci-Fi']"
+Movie 659,"Action, Drama",Director D,2016,88,2.4,181250,"['Action', 'Drama']"
+Movie 660,"Unknown, Adventure, Thriller",Director A,1985,100,6.9,246807,"['Unknown', 'Adventure', 'Thriller']"
+Movie 662,"Adventure, Drama, Sci-Fi",,1956,92,7.7,448129,"['Adventure', 'Drama', 'Sci-Fi']"
+Movie 663,"Adventure, , Drama",Director C,2003,110,1.9,301252,"['Adventure', '', 'Drama']"
+Movie 664,"Romance, Sci-Fi",,1997,177,5.6,57994,"['Romance', 'Sci-Fi']"
+Movie 665,"Action, Adventure",Director A,1960,134,1.8,305865,"['Action', 'Adventure']"
+Movie 666,"Drama, Adventure, Sci-Fi",,1962,116,3.2,72912,"['Drama', 'Adventure', 'Sci-Fi']"
+Movie 667,Action,,1984,132,2.5,39420,['Action']
+Movie 668,"Romance, Adventure, Drama",,2010,84,8.1,350527,"['Romance', 'Adventure', 'Drama']"
+Movie 669,"Drama, Thriller, Unknown",,1951,106,7.8,349599,"['Drama', 'Thriller', 'Unknown']"
+Movie 671,"Action, , Horror",Director A,2007,150,1.9,169227,"['Action', '', 'Horror']"
+Movie 672,"Thriller, Drama, Adventure",Director A,1981,173,7.4,1876,"['Thriller', 'Drama', 'Adventure']"
+Movie 673,Unknown,Director B,1953,78,4.3,249150,['Unknown']
+Movie 674,Action,Director A,1994,134,5.4,88466,['Action']
+Movie 676,"Horror, Sci-Fi",Director C,1961,124,7.4,159435,"['Horror', 'Sci-Fi']"
+Movie 677,"Action, Romance",,1966,86,7.4,484288,"['Action', 'Romance']"
+Movie 679,Adventure,,2003,112,1.3,138290,['Adventure']
+Movie 680,"Drama, Romance, Comedy",Director C,2014,150,2.1,460497,"['Drama', 'Romance', 'Comedy']"
+Movie 681,Horror,Director D,2021,171,7.3,371283,['Horror']
+Movie 682,"Unknown, Drama, Sci-Fi",Director B,1972,108,6.4,386626,"['Unknown', 'Drama', 'Sci-Fi']"
+Movie 683,"Drama, Comedy, Adventure",Director A,1967,65,9.5,451112,"['Drama', 'Comedy', 'Adventure']"
+Movie 684,Adventure,Director B,2007,68,3.5,72805,['Adventure']
+Movie 685,Horror,,1954,123,3.6,453332,['Horror']
+Movie 686,"Sci-Fi, Romance",,1955,63,5.0,394668,"['Sci-Fi', 'Romance']"
+Movie 688,Action,,1993,137,5.9,381499,['Action']
+Movie 689,"Sci-Fi, Romance",,1971,177,4.9,308869,"['Sci-Fi', 'Romance']"
+Movie 690,Unknown,,1964,128,6.3,212338,['Unknown']
+Movie 692,"Action, Comedy",,2000,156,4.8,193447,"['Action', 'Comedy']"
+Movie 693,"Thriller, Action",,1995,151,1.6,80587,"['Thriller', 'Action']"
+Movie 694,Sci-Fi,Director A,1987,85,6.9,387299,['Sci-Fi']
+Movie 695,Adventure,,2010,112,3.4,35126,['Adventure']
+Movie 697,"Comedy, Adventure, Action",Director D,2000,155,5.4,446381,"['Comedy', 'Adventure', 'Action']"
+Movie 699,"Adventure, Comedy",Director C,1955,178,9.9,37824,"['Adventure', 'Comedy']"
+Movie 703,Drama,,1985,110,5.2,77375,['Drama']
+Movie 704,Romance,,2020,97,1.1,221109,['Romance']
+Movie 705,"Horror, Action, Drama",Director D,1968,87,5.4,145841,"['Horror', 'Action', 'Drama']"
+Movie 706,"Adventure, Thriller, Action",Director D,2014,179,9.5,93307,"['Adventure', 'Thriller', 'Action']"
+Movie 707,"Unknown, Action",Director B,1970,138,5.1,66348,"['Unknown', 'Action']"
+Movie 708,"Comedy, Drama, Action",Director B,1987,123,6.9,39599,"['Comedy', 'Drama', 'Action']"
+Movie 709,Romance,Director C,2010,75,2.7,451404,['Romance']
+Movie 710,"Thriller, Romance",,1972,143,5.1,238851,"['Thriller', 'Romance']"
+Movie 711,"Adventure, Comedy",Director B,2004,167,9.8,340399,"['Adventure', 'Comedy']"
+Movie 712,"Adventure, Action, Romance",,1982,154,1.3,250236,"['Adventure', 'Action', 'Romance']"
+Movie 714,"Unknown, Drama",Director D,1972,175,6.9,411110,"['Unknown', 'Drama']"
+Movie 715,Drama,Director A,2019,138,7.8,375217,['Drama']
+Movie 716,Romance,,1982,151,4.9,38709,['Romance']
+Movie 717,"Adventure, Romance, Action",,1972,110,2.8,320655,"['Adventure', 'Romance', 'Action']"
+Movie 718,"Unknown, , Drama",Director B,1955,125,4.2,361895,"['Unknown', '', 'Drama']"
+Movie 719,"Sci-Fi, Drama",Director B,1962,100,2.7,455624,"['Sci-Fi', 'Drama']"
+Movie 721,"Action, Thriller",Director D,1989,115,1.6,215019,"['Action', 'Thriller']"
+Movie 723,"Romance, Comedy",Director B,2022,79,5.1,127814,"['Romance', 'Comedy']"
+Movie 724,Horror,,2001,70,3.3,319867,['Horror']
+Movie 725,Sci-Fi,,1997,89,9.3,284831,['Sci-Fi']
+Movie 726,Drama,Director A,1954,70,5.1,342319,['Drama']
+Movie 727,"Adventure, Unknown",Director B,2002,64,4.7,221344,"['Adventure', 'Unknown']"
+Movie 728,Adventure,Director C,1981,83,4.9,161663,['Adventure']
+Movie 729,"Action, Thriller",Director B,1993,101,8.1,200738,"['Action', 'Thriller']"
+Movie 730,"Drama, Unknown, ",,1983,170,7.7,486701,"['Drama', 'Unknown', '']"
+Movie 731,Horror,,2006,110,6.0,384321,['Horror']
+Movie 733,"Thriller, Adventure, Sci-Fi",,1990,67,1.9,435176,"['Thriller', 'Adventure', 'Sci-Fi']"
+Movie 734,Sci-Fi,Director A,1989,141,7.5,136660,['Sci-Fi']
+Movie 737,Unknown,Director A,1984,75,7.6,480747,['Unknown']
+Movie 738,", Adventure",Director C,1986,116,9.7,412262,"['', 'Adventure']"
+Movie 739,"Thriller, Adventure",Director D,2010,105,2.4,444086,"['Thriller', 'Adventure']"
+Movie 741,"Adventure, Romance, Action",Director D,2012,141,3.8,264724,"['Adventure', 'Romance', 'Action']"
+Movie 742,"Action, Horror, Adventure",Director C,1953,103,7.4,435320,"['Action', 'Horror', 'Adventure']"
+Movie 744,"Horror, ",Director B,1995,170,3.5,350183,"['Horror', '']"
+Movie 745,"Comedy, Drama",,1955,173,1.8,244508,"['Comedy', 'Drama']"
+Movie 746,"Comedy, Thriller",,1979,139,5.0,320923,"['Comedy', 'Thriller']"
+Movie 747,Action,,2016,162,2.1,62434,['Action']
+Movie 748,"Sci-Fi, Action",Director A,2003,82,3.5,187939,"['Sci-Fi', 'Action']"
+Movie 749,"Adventure, Comedy",Director D,2012,69,3.9,216692,"['Adventure', 'Comedy']"
+Movie 750,"Drama, Thriller",Director D,1964,153,4.6,253314,"['Drama', 'Thriller']"
+Movie 751,"Horror, Comedy, Thriller",Director A,1967,111,5.0,7337,"['Horror', 'Comedy', 'Thriller']"
+Movie 754,"Drama, Horror, Sci-Fi",Director C,1971,159,4.3,34512,"['Drama', 'Horror', 'Sci-Fi']"
+Movie 755,Comedy,,1994,176,4.0,413635,['Comedy']
+Movie 756,Thriller,Director C,1997,175,4.9,391909,['Thriller']
+Movie 758,"Drama, Horror",,2008,136,1.4,317121,"['Drama', 'Horror']"
+Movie 759,"Adventure, Horror",Director C,2012,114,3.8,379204,"['Adventure', 'Horror']"
+Movie 760,"Romance, Adventure",Director A,1970,104,6.4,161514,"['Romance', 'Adventure']"
+Movie 762,"Action, Drama, Romance",Director B,1996,82,2.4,23081,"['Action', 'Drama', 'Romance']"
+Movie 763,"Romance, Comedy",,1976,75,2.8,490315,"['Romance', 'Comedy']"
+Movie 764,Unknown,,1966,120,1.2,304832,['Unknown']
+Movie 765,"Romance, Horror",,1997,106,9.3,41625,"['Romance', 'Horror']"
+Movie 766,Action,Director C,1958,89,5.2,302738,['Action']
+Movie 767,"Horror, Adventure",Director C,1972,147,4.6,397789,"['Horror', 'Adventure']"
+Movie 768,"Unknown, Comedy",Director D,2003,132,7.1,108895,"['Unknown', 'Comedy']"
+Movie 769,"Adventure, Comedy",Director B,1965,83,2.6,404855,"['Adventure', 'Comedy']"
+Movie 770,Action,Director C,1991,145,4.5,429354,['Action']
+Movie 771,"Adventure, Action",,1963,126,3.0,374961,"['Adventure', 'Action']"
+Movie 772,", Thriller, Romance",,1998,103,8.1,415511,"['', 'Thriller', 'Romance']"
+Movie 774,"Horror, Comedy",,1959,154,3.6,128983,"['Horror', 'Comedy']"
+Movie 775,"Horror, Sci-Fi, Romance",,2015,176,9.3,116224,"['Horror', 'Sci-Fi', 'Romance']"
+Movie 776,"Adventure, Action",Director D,1984,140,1.7,264219,"['Adventure', 'Action']"
+Movie 778,"Sci-Fi, Romance",,1988,139,3.0,150071,"['Sci-Fi', 'Romance']"
+Movie 779,"Sci-Fi, Thriller, Horror",Director A,2023,128,5.5,317266,"['Sci-Fi', 'Thriller', 'Horror']"
+Movie 780,Sci-Fi,Director C,2003,136,7.2,174957,['Sci-Fi']
+Movie 782,Drama,Director A,1984,97,8.0,357450,['Drama']
+Movie 783,"Adventure, Action",Director A,1977,104,5.0,136125,"['Adventure', 'Action']"
+Movie 784,", Thriller",Director B,1969,63,9.0,326826,"['', 'Thriller']"
+Movie 785,", Unknown",Director B,1960,161,9.6,438559,"['', 'Unknown']"
+Movie 786,"Sci-Fi, Drama, Thriller",,2022,170,1.2,3265,"['Sci-Fi', 'Drama', 'Thriller']"
+Movie 787,"Comedy, Sci-Fi, Drama",Director A,1968,134,3.8,460821,"['Comedy', 'Sci-Fi', 'Drama']"
+Movie 789,Unknown,,1953,94,1.6,133223,['Unknown']
+Movie 793,"Comedy, Sci-Fi, Horror",,1969,127,8.5,227747,"['Comedy', 'Sci-Fi', 'Horror']"
+Movie 794,"Thriller, Drama, Adventure",Director C,1977,157,3.9,498049,"['Thriller', 'Drama', 'Adventure']"
+Movie 795,"Romance, Drama, Sci-Fi",,1999,154,6.2,191949,"['Romance', 'Drama', 'Sci-Fi']"
+Movie 796,"Unknown, Adventure, Romance",Director C,1982,76,4.2,225279,"['Unknown', 'Adventure', 'Romance']"
+Movie 797,"Romance, Unknown",Director B,1953,106,4.3,430804,"['Romance', 'Unknown']"
+Movie 798,", Action, Adventure",Director C,1981,166,8.3,124142,"['', 'Action', 'Adventure']"
+Movie 799,Unknown,,1979,115,3.3,252815,['Unknown']
+Movie 801,"Sci-Fi, Unknown, Drama",Director D,1995,89,3.6,154212,"['Sci-Fi', 'Unknown', 'Drama']"
+Movie 802,"Action, Comedy, Horror",,1960,111,3.7,65900,"['Action', 'Comedy', 'Horror']"
+Movie 803,", Action",Director B,1976,112,4.9,333164,"['', 'Action']"
+Movie 804,"Romance, Action, Comedy",,1985,88,1.8,330541,"['Romance', 'Action', 'Comedy']"
+Movie 805,"Adventure, Action",Director D,2014,61,6.7,485904,"['Adventure', 'Action']"
+Movie 806,"Horror, , Thriller",Director B,1996,165,5.4,122432,"['Horror', '', 'Thriller']"
+Movie 807,Romance,,1964,141,1.5,229672,['Romance']
+Movie 808,"Thriller, Action, Romance",Director D,1981,155,5.5,453033,"['Thriller', 'Action', 'Romance']"
+Movie 809,"Adventure, Sci-Fi",Director D,1984,83,7.8,190697,"['Adventure', 'Sci-Fi']"
+Movie 811,"Thriller, Unknown",Director D,1966,179,9.3,373330,"['Thriller', 'Unknown']"
+Movie 812,"Adventure, , Sci-Fi",,1989,97,3.8,200250,"['Adventure', '', 'Sci-Fi']"
+Movie 813,"Drama, Horror",,1985,119,1.1,181790,"['Drama', 'Horror']"
+Movie 815,"Horror, Romance, Thriller",,1957,122,2.8,282156,"['Horror', 'Romance', 'Thriller']"
+Movie 816,"Drama, ",Director D,1997,61,5.5,79910,"['Drama', '']"
+Movie 818,"Comedy, Unknown, Horror",,1962,119,1.5,238105,"['Comedy', 'Unknown', 'Horror']"
+Movie 820,"Drama, Adventure",Director A,1976,68,7.7,351922,"['Drama', 'Adventure']"
+Movie 824,"Horror, Adventure, Romance",Director B,2010,177,1.2,145669,"['Horror', 'Adventure', 'Romance']"
+Movie 825,"Horror, Unknown, Comedy",Director D,2006,95,5.0,427309,"['Horror', 'Unknown', 'Comedy']"
+Movie 826,Thriller,Director B,1982,75,8.6,27244,['Thriller']
+Movie 827,"Adventure, Thriller",Director A,1954,105,3.2,148416,"['Adventure', 'Thriller']"
+Movie 828,"Comedy, , Action",Director C,1967,68,2.7,416211,"['Comedy', '', 'Action']"
+Movie 830,Unknown,Director C,1983,93,3.3,256603,['Unknown']
+Movie 832,"Drama, Comedy",Director D,1955,94,5.8,106603,"['Drama', 'Comedy']"
+Movie 833,Drama,Director D,1984,69,3.0,113209,['Drama']
+Movie 835,"Thriller, Comedy",Director C,1950,133,3.4,57382,"['Thriller', 'Comedy']"
+Movie 836,Romance,,1958,133,9.1,364584,['Romance']
+Movie 839,Unknown,Director C,1987,160,3.6,343900,['Unknown']
+Movie 840,", Action",Director C,1982,115,4.2,433521,"['', 'Action']"
+Movie 841,Thriller,Director C,1957,130,4.7,96092,['Thriller']
+Movie 842,Unknown,Director A,1998,112,8.2,115662,['Unknown']
+Movie 843,"Romance, Sci-Fi",Director A,2014,172,9.3,148364,"['Romance', 'Sci-Fi']"
+Movie 844,"Drama, Action",,2016,120,4.5,198568,"['Drama', 'Action']"
+Movie 846,"Romance, ",Director D,1966,105,3.3,275708,"['Romance', '']"
+Movie 847,Drama,Director B,2003,82,9.3,352789,['Drama']
+Movie 848,Comedy,,2023,110,5.7,89221,['Comedy']
+Movie 849,"Comedy, Sci-Fi",Director B,2001,69,1.8,257486,"['Comedy', 'Sci-Fi']"
+Movie 850,Unknown,Director C,1990,160,3.6,388129,['Unknown']
+Movie 851,"Drama, Horror",,1984,68,7.3,52511,"['Drama', 'Horror']"
+Movie 852,Action,,2008,125,5.7,150826,['Action']
+Movie 853,Action,Director A,2016,85,1.1,96523,['Action']
+Movie 854,Drama,Director A,2013,93,5.9,305103,['Drama']
+Movie 856,", Action, Adventure",Director D,1994,131,3.3,243857,"['', 'Action', 'Adventure']"
+Movie 857,"Adventure, Unknown, Thriller",Director C,1985,75,1.9,412121,"['Adventure', 'Unknown', 'Thriller']"
+Movie 858,"Romance, ",Director B,1951,114,8.3,130298,"['Romance', '']"
+Movie 859,Sci-Fi,,1955,106,2.1,390411,['Sci-Fi']
+Movie 860,"Romance, Comedy",,1968,78,7.7,480368,"['Romance', 'Comedy']"
+Movie 862,", Unknown",,1982,173,8.2,247989,"['', 'Unknown']"
+Movie 863,"Romance, Thriller, Comedy",Director B,1950,102,3.4,273795,"['Romance', 'Thriller', 'Comedy']"
+Movie 864,"Drama, Comedy",Director A,2000,92,4.9,105854,"['Drama', 'Comedy']"
+Movie 865,"Adventure, Horror",Director D,1968,76,7.9,103818,"['Adventure', 'Horror']"
+Movie 866,"Horror, Comedy, Thriller",,2006,78,4.4,190300,"['Horror', 'Comedy', 'Thriller']"
+Movie 867,Sci-Fi,Director A,1968,95,8.9,277539,['Sci-Fi']
+Movie 868,"Adventure, Thriller, Romance",Director A,1955,107,6.1,122075,"['Adventure', 'Thriller', 'Romance']"
+Movie 869,"Adventure, Drama, Action",,1997,177,5.3,60445,"['Adventure', 'Drama', 'Action']"
+Movie 870,", Action, Romance",Director D,1970,160,9.1,315912,"['', 'Action', 'Romance']"
+Movie 872,"Thriller, Sci-Fi, Drama",Director D,1967,148,2.4,141725,"['Thriller', 'Sci-Fi', 'Drama']"
+Movie 873,"Unknown, Sci-Fi, ",,1981,144,3.8,130433,"['Unknown', 'Sci-Fi', '']"
+Movie 875,"Unknown, Horror, Drama",Director A,1959,113,9.0,209656,"['Unknown', 'Horror', 'Drama']"
+Movie 876,", Romance, Drama",,1995,158,1.1,498088,"['', 'Romance', 'Drama']"
+Movie 877,"Horror, Drama",Director A,1957,111,3.0,143841,"['Horror', 'Drama']"
+Movie 880,Unknown,,2015,145,2.3,97015,['Unknown']
+Movie 881,"Drama, Action",,1970,100,7.3,137872,"['Drama', 'Action']"
+Movie 882,Sci-Fi,Director D,2019,71,2.2,446508,['Sci-Fi']
+Movie 884,Unknown,Director C,2012,70,3.8,482535,['Unknown']
+Movie 885,", Sci-Fi",,1970,94,5.4,421685,"['', 'Sci-Fi']"
+Movie 886,", Action",,2006,180,9.7,411938,"['', 'Action']"
+Movie 887,Horror,,1952,92,6.2,77675,['Horror']
+Movie 890,"Sci-Fi, Adventure, Horror",Director C,1964,94,8.0,189657,"['Sci-Fi', 'Adventure', 'Horror']"
+Movie 892,Horror,,1973,129,3.4,350770,['Horror']
+Movie 893,Horror,Director B,2014,177,7.6,280957,['Horror']
+Movie 894,Sci-Fi,Director A,2009,63,1.1,407906,['Sci-Fi']
+Movie 895,Horror,Director C,1977,154,2.0,201214,['Horror']
+Movie 896,Horror,Director B,1952,165,4.6,490226,['Horror']
+Movie 897,"Thriller, , Sci-Fi",Director A,2003,75,3.2,1828,"['Thriller', '', 'Sci-Fi']"
+Movie 898,Unknown,Director D,2006,143,5.2,429799,['Unknown']
+Movie 899,Unknown,Director B,1975,110,8.8,493775,['Unknown']
+Movie 901,"Drama, Thriller, ",Director C,1972,132,8.8,36260,"['Drama', 'Thriller', '']"
+Movie 902,Sci-Fi,,1997,133,3.4,87908,['Sci-Fi']
+Movie 903,"Romance, Adventure",Director B,2004,139,3.0,154482,"['Romance', 'Adventure']"
+Movie 904,", Thriller, Adventure",Director B,1972,82,8.7,499563,"['', 'Thriller', 'Adventure']"
+Movie 905,"Horror, Drama",,1992,63,3.6,426757,"['Horror', 'Drama']"
+Movie 907,"Romance, Unknown, Comedy",,1978,103,8.5,314172,"['Romance', 'Unknown', 'Comedy']"
+Movie 908,"Thriller, Adventure",Director D,1992,172,9.3,242273,"['Thriller', 'Adventure']"
+Movie 909,"Sci-Fi, Comedy, Unknown",Director C,2015,154,8.6,36959,"['Sci-Fi', 'Comedy', 'Unknown']"
+Movie 910,"Adventure, Horror",,1985,126,9.2,259102,"['Adventure', 'Horror']"
+Movie 912,"Thriller, Comedy, Horror",,1962,123,3.3,206154,"['Thriller', 'Comedy', 'Horror']"
+Movie 913,"Sci-Fi, Adventure",Director A,2020,124,2.8,170585,"['Sci-Fi', 'Adventure']"
+Movie 916,Drama,Director A,2004,93,9.8,124062,['Drama']
+Movie 917,"Action, ",Director D,2010,117,1.4,155181,"['Action', '']"
+Movie 918,Unknown,,2011,162,5.2,160659,['Unknown']
+Movie 919,Thriller,Director B,2003,136,9.7,22030,['Thriller']
+Movie 920,"Romance, Horror",,1950,72,3.2,208058,"['Romance', 'Horror']"
+Movie 921,Action,,2011,163,3.5,293610,['Action']
+Movie 922,"Adventure, Romance, Sci-Fi",Director D,1950,147,4.4,149157,"['Adventure', 'Romance', 'Sci-Fi']"
+Movie 924,", Horror, Romance",Director A,1999,174,8.0,44192,"['', 'Horror', 'Romance']"
+Movie 925,"Action, Unknown, Sci-Fi",Director B,2020,101,6.5,486374,"['Action', 'Unknown', 'Sci-Fi']"
+Movie 926,"Romance, Thriller",Director D,1957,180,8.5,475571,"['Romance', 'Thriller']"
+Movie 928,"Thriller, Action, Comedy",Director B,1992,137,3.5,428099,"['Thriller', 'Action', 'Comedy']"
+Movie 930,"Comedy, ",,2003,143,3.6,50139,"['Comedy', '']"
+Movie 931,"Sci-Fi, Comedy",Director A,1959,163,2.9,491615,"['Sci-Fi', 'Comedy']"
+Movie 932,"Horror, Unknown",,1974,73,4.8,363829,"['Horror', 'Unknown']"
+Movie 933,Drama,Director B,1951,64,5.9,372474,['Drama']
+Movie 935,"Thriller, Comedy",Director D,1972,102,3.6,264970,"['Thriller', 'Comedy']"
+Movie 936,Comedy,,1974,124,3.4,328924,['Comedy']
+Movie 938,"Romance, Drama, Comedy",Director D,2009,91,9.1,53743,"['Romance', 'Drama', 'Comedy']"
+Movie 939,"Sci-Fi, Horror, Thriller",,1987,117,6.7,429102,"['Sci-Fi', 'Horror', 'Thriller']"
+Movie 940,"Unknown, Comedy",Director B,1977,155,8.1,354143,"['Unknown', 'Comedy']"
+Movie 941,"Drama, Adventure",,1981,71,1.9,380368,"['Drama', 'Adventure']"
+Movie 942,"Horror, ",Director C,1982,83,8.5,23690,"['Horror', '']"
+Movie 943,"Horror, Adventure, ",,2018,152,3.5,385453,"['Horror', 'Adventure', '']"
+Movie 945,Adventure,,1998,90,6.5,242167,['Adventure']
+Movie 946,Romance,,2003,108,1.0,423573,['Romance']
+Movie 948,"Thriller, ",Director D,2011,81,3.3,193527,"['Thriller', '']"
+Movie 951,"Comedy, Sci-Fi, Adventure",Director C,1978,66,9.6,100021,"['Comedy', 'Sci-Fi', 'Adventure']"
+Movie 952,Adventure,Director D,1963,140,7.3,441450,['Adventure']
+Movie 953,Action,Director C,1971,166,5.1,234502,['Action']
+Movie 956,"Drama, Sci-Fi",,1968,174,6.8,53875,"['Drama', 'Sci-Fi']"
+Movie 957,", Comedy",Director C,1975,67,10.0,225572,"['', 'Comedy']"
+Movie 960,Unknown,,2015,167,1.6,250013,['Unknown']
+Movie 961,", Romance",Director C,1996,99,4.9,125799,"['', 'Romance']"
+Movie 962,", Horror, Comedy",Director D,1964,158,5.8,260542,"['', 'Horror', 'Comedy']"
+Movie 963,"Sci-Fi, Adventure",,2001,121,2.8,195872,"['Sci-Fi', 'Adventure']"
+Movie 966,Comedy,Director A,1996,164,5.7,44570,['Comedy']
+Movie 967,"Thriller, Sci-Fi, Horror",,1985,77,7.0,27481,"['Thriller', 'Sci-Fi', 'Horror']"
+Movie 969,"Sci-Fi, Drama, Comedy",Director A,1983,102,1.5,278010,"['Sci-Fi', 'Drama', 'Comedy']"
+Movie 970,Adventure,,1980,173,5.5,358551,['Adventure']
+Movie 971,"Horror, Unknown",Director A,1965,180,5.3,491334,"['Horror', 'Unknown']"
+Movie 972,Thriller,Director A,1968,93,8.5,309980,['Thriller']
+Movie 973,"Sci-Fi, Horror",,2013,99,6.7,406746,"['Sci-Fi', 'Horror']"
+Movie 974,Unknown,,1963,72,3.3,48634,['Unknown']
+Movie 975,"Thriller, Sci-Fi",,1969,92,4.1,482512,"['Thriller', 'Sci-Fi']"
+Movie 976,"Comedy, Unknown, Romance",Director B,1995,100,3.9,76889,"['Comedy', 'Unknown', 'Romance']"
+Movie 977,"Thriller, Romance",Director A,1986,178,1.0,476703,"['Thriller', 'Romance']"
+Movie 978,Unknown,Director D,1988,70,7.9,365786,['Unknown']
+Movie 979,Thriller,,1967,170,6.4,143711,['Thriller']
+Movie 980,Sci-Fi,Director B,1996,71,7.1,221829,['Sci-Fi']
+Movie 981,Unknown,,2006,143,5.4,329781,['Unknown']
+Movie 982,"Sci-Fi, Thriller, ",Director C,1973,118,9.9,312067,"['Sci-Fi', 'Thriller', '']"
+Movie 983,"Adventure, Drama, Action",,1957,89,4.1,355746,"['Adventure', 'Drama', 'Action']"
+Movie 984,Sci-Fi,Director A,1953,172,3.7,228133,['Sci-Fi']
+Movie 986,Comedy,Director D,2005,74,7.2,341180,['Comedy']
+Movie 987,"Action, Sci-Fi, Horror",,2010,165,7.0,474019,"['Action', 'Sci-Fi', 'Horror']"
+Movie 988,"Adventure, Thriller, Comedy",,2008,124,1.2,11096,"['Adventure', 'Thriller', 'Comedy']"
+Movie 989,Comedy,Director D,1987,141,7.3,134279,['Comedy']
+Movie 990,"Romance, Comedy",Director D,2012,146,7.4,416616,"['Romance', 'Comedy']"
+Movie 991,", Horror, Thriller",Director D,2015,78,9.6,157653,"['', 'Horror', 'Thriller']"
+Movie 992,"Comedy, ",,2019,98,8.5,366311,"['Comedy', '']"
+Movie 993,"Horror, ",,1984,124,7.6,456703,"['Horror', '']"
+Movie 994,"Sci-Fi, Romance",Director C,2018,157,3.4,443920,"['Sci-Fi', 'Romance']"
+Movie 995,"Unknown, Horror, Drama",Director A,1954,67,1.0,114517,"['Unknown', 'Horror', 'Drama']"
+Movie 996,"Unknown, Comedy, Thriller",,2019,169,3.4,307692,"['Unknown', 'Comedy', 'Thriller']"
+Movie 997,"Action, Adventure",Director A,2010,150,2.8,125245,"['Action', 'Adventure']"
+Movie 998,Adventure,Director C,1988,168,5.1,44691,['Adventure']
+Movie 1000,"Romance, ",Director A,1995,62,2.6,98648,"['Romance', '']"

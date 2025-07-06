@@ -1,0 +1,1001 @@
+title,genre,director,year,duration,rating,votes
+Movie 1,"Drama, Sci-Fi, \N",Director C,2010,175,2.9,119761.0
+Movie 2,"Romance, Sci-Fi",N/A,1955,two hours,2.6,463554.0
+Movie 3,"Drama, , Sci-Fi",Director B,1980,139,1.6,235480.0
+Movie 4,"\N, Thriller, Sci-Fi",Director C,2007,147,5.1,209000.0
+Movie 5,Adventure,Director B,2014,104,7.7,260739.0
+Movie 6,,Director D,1982,105,6.3,13265.0
+Movie 7,"Adventure, , Comedy",,2007,89,3.3,265286.0
+Movie 8,"Comedy, Action",Director A,1975,159,4.9,236080.0
+Movie 9,"Drama, Horror, Romance",,1969,145,9.1,478646.0
+Movie 10,"Action, Adventure, Romance",,202A,102,,37430.0
+Movie 11,"Drama, Thriller",Director C,1997,172,8.3,406407.0
+Movie 12,Horror,Director C,1998,158,9.7,201934.0
+Movie 13,"Sci-Fi, Action",,2018,104,,462465.0
+Movie 14,"Drama, Thriller, ",Director B,2012,72,3.0,
+Movie 15,"Sci-Fi, Romance",Director B,2019,130,7.0,196223.0
+Movie 16,Romance,Director C,1987,174,2.0,269052.0
+Movie 17,"Comedy, Sci-Fi",N/A,202A,87,5.6,489081.0
+Movie 18,Sci-Fi,N/A,1957,147,2.5,490502.0
+Movie 19,"Romance, \N, Thriller",Director B,1980,170,8.5,15094.0
+Movie 20,"Horror, Comedy",Director D,1959,69,2.0,425702.0
+Movie 21,Horror,,1988,162,,257939.0
+Movie 22,"Thriller, \N, Adventure",Director C,1958,123,9.2,152287.0
+Movie 23,Romance,Director B,1966,111,7.3,92398.0
+Movie 24,"Thriller, Horror",,2020,111,8.9,
+Movie 25,"Thriller, Sci-Fi",Director B,2003,152,9.7,304106.0
+Movie 26,,Director B,2005,113,6.6,418642.0
+Movie 27,"Action, Drama",Director C,1966,167,8.4,105005.0
+Movie 28,Action,Director D,1954,119,1.5,464747.0
+Movie 29,"Comedy, Adventure",N/A,1980,78,6.8,441530.0
+Movie 30,Romance,Director C,2005,147,,438185.0
+Movie 31,"Thriller, Drama, Sci-Fi",Director D,1966,157,4.5,159499.0
+Movie 32,"\N, Drama",Director D,2004,99,9.7,41718.0
+Movie 33,Horror,,1978,N/A,2.5,331720.0
+Movie 34,"Action, Drama, Horror",Director A,1974,154,,242156.0
+Movie 35,"Drama, Romance, ",,1985,82,2.0,58726.0
+Movie 36,"Action, Adventure",Director D,2014,\N,6.7,154721.0
+Movie 37,Adventure,Director C,1998,65,8.5,139541.0
+Movie 38,Drama,Director B,2002,76,4.3,329427.0
+Movie 39,"Drama, Comedy, \N",Director D,2001,168,6.4,80781.0
+Movie 40,"Adventure, Sci-Fi, Comedy",,2011,158,3.6,331027.0
+Movie 41,"Sci-Fi, Drama",Director A,2004,165,5.7,472017.0
+Movie 42,", Thriller, Sci-Fi",Director B,1987,164,7.2,30727.0
+Movie 43,"Romance, \N",N/A,1977,84,6.7,176620.0
+Movie 44,"Thriller, Action, Romance",Director A,1950,120,3.7,57611.0
+Movie 45,Thriller,Director B,2008,123,5.1,
+Movie 46,"Horror, Sci-Fi",Director D,1995,125,1.7,259390.0
+Movie 47,Adventure,,1954,161,5.3,308041.0
+Movie 48,"Thriller, , Action",,1960,153,8.0,342957.0
+Movie 49,"Sci-Fi, Adventure, Horror",,1991,103,9.0,
+Movie 50,Action,Director C,1968,123,6.3,169244.0
+Movie 51,"Horror, Sci-Fi, Action",Director A,1978,94,4.3,449344.0
+Movie 52,"\N, ",N/A,1964,123,9.5,147344.0
+Movie 53,"Action, \N, Horror",Director D,2000,88,8.1,49109.0
+Movie 54,Drama,Director D,1952,116,4.3,371329.0
+Movie 55,"Romance, Comedy",N/A,1973,175,,119196.0
+Movie 56,Thriller,,2005,92,7.7,185194.0
+Movie 57,"Drama, Sci-Fi",Director D,1989,151,6.7,356140.0
+Movie 58,"Thriller, Drama, \N",Director D,2023,88,2.1,
+Movie 59,Romance,Director B,1992,121,1.3,229791.0
+Movie 60,"Thriller, Comedy, Horror",Director D,1990,142,4.0,169133.0
+Movie 61,"Adventure, Action, Thriller",Director D,1993,69,6.0,126901.0
+Movie 62,Romance,N/A,2000,123,3.9,216885.0
+Movie 63,"\N, Comedy",Director D,1959,112,8.6,
+Movie 64,Horror,Director A,1987,110,6.3,318640.0
+Movie 65,", Horror, Sci-Fi",N/A,2012,141,7.9,445761.0
+Movie 66,Drama,Director D,1972,60,2.5,250510.0
+Movie 67,"Comedy, Drama",Director B,1984,100,8.1,159931.0
+Movie 68,"Thriller, ",N/A,2005,160,,
+Movie 69,"Drama, \N, Romance",N/A,2015,N/A,9.9,29521.0
+Movie 70,Comedy,Director B,1958,66,3.1,
+Movie 71,"Adventure, , Horror",Director C,2018,104,9.2,62234.0
+Movie 72,"Adventure, Romance, Comedy",Director B,1999,106,5.6,399953.0
+Movie 73,"\N, Thriller",Director A,1971,155,1.5,241423.0
+Movie 74,"\N, Comedy",,2015,107,9.3,50945.0
+Movie 75,"Thriller, Romance",Director D,2004,136,4.3,35956.0
+Movie 76,Horror,Director B,1979,149,7.7,349827.0
+Movie 77,"Sci-Fi, Adventure",Director C,2015,145,,65618.0
+Movie 78,Romance,,2012,135,3.9,353926.0
+Movie 79,"\N, Comedy, Drama",Director B,2012,74,8.2,105218.0
+Movie 80,"Thriller, Comedy",Director B,1990,84,6.1,25763.0
+Movie 81,"\N, Action",Director C,N/A,136,10.0,90844.0
+Movie 82,"Sci-Fi, Horror, Thriller",Director B,1997,96,1.7,8484.0
+Movie 83,Romance,Director D,2018,145,,455319.0
+Movie 84,"Action, Adventure",Director A,1989,98,9.1,99540.0
+Movie 85,"Action, ",Director B,1951,124,9.8,404173.0
+Movie 86,"Drama, Thriller, Sci-Fi",Director D,1978,123,4.5,440575.0
+Movie 87,"Adventure, Action",N/A,2012,160,6.5,334772.0
+Movie 88,"Drama, Thriller",Director A,1978,109,5.5,162357.0
+Movie 89,"Romance, Adventure, Drama",Director C,1955,92,2.9,114148.0
+Movie 90,,Director D,1962,71,6.9,342626.0
+Movie 91,Sci-Fi,Director C,1950,134,,90852.0
+Movie 92,\N,Director B,1981,91,1.9,397091.0
+Movie 93,Sci-Fi,Director D,1953,91,5.0,479139.0
+Movie 94,,Director B,1986,67,8.8,286510.0
+Movie 95,"Horror, Sci-Fi",Director A,1960,64,4.1,10701.0
+Movie 96,Romance,Director C,1964,85,1.0,456617.0
+Movie 97,Comedy,N/A,2008,86,4.1,265284.0
+Movie 98,"Romance, , Adventure",,1978,120,,475107.0
+Movie 99,Sci-Fi,,1998,148,8.1,374050.0
+Movie 100,"Action, Horror",Director D,1950,129,2.5,108146.0
+Movie 101,"Horror, Action, Sci-Fi",Director D,2005,124,5.5,171348.0
+Movie 102,"\N, Comedy, ",,1969,135,2.0,262517.0
+Movie 103,"Comedy, Drama, \N",Director D,1986,179,1.1,240400.0
+Movie 104,Action,Director C,2017,106,10.0,205587.0
+Movie 105,"Action, Adventure, Comedy",Director B,1997,137,8.9,246312.0
+Movie 106,"Drama, Action, Comedy",Director C,\N,104,1.4,494735.0
+Movie 107,", Thriller",Director B,\N,120,8.4,364445.0
+Movie 108,Drama,N/A,1956,124,5.7,347089.0
+Movie 109,"Romance, Horror, ",Director D,1979,110,9.8,
+Movie 110,"Adventure, ",Director D,2003,74,5.2,45231.0
+Movie 111,"Romance, Adventure, \N",Director C,2007,159,1.5,482350.0
+Movie 112,"Thriller, Adventure",Director C,2006,104,3.2,453251.0
+Movie 113,"Adventure, Comedy, ",Director B,1980,74,8.0,1272.0
+Movie 114,"Adventure, Thriller",Director A,2008,67,,281934.0
+Movie 115,", Comedy, Thriller",Director C,1980,125,1.8,479846.0
+Movie 116,"Comedy, \N",Director C,1992,143,1.4,407436.0
+Movie 117,Romance,,2016,78,6.1,473964.0
+Movie 118,"Drama, \N, Adventure",Director D,2001,72,3.3,366864.0
+Movie 119,"Sci-Fi, \N, Drama",Director B,1955,104,1.6,156177.0
+Movie 120,", \N, Sci-Fi",,202A,157,1.1,262675.0
+Movie 121,"\N, Romance",Director D,1977,164,5.9,361194.0
+Movie 122,"Thriller, Sci-Fi",,1981,138,9.6,241646.0
+Movie 123,"Thriller, ",Director C,2016,169,3.9,222930.0
+Movie 124,", Drama, Sci-Fi",,1965,174,8.2,314424.0
+Movie 125,"Romance, Drama, Action",Director A,1977,99,,34385.0
+Movie 126,Sci-Fi,Director D,1985,61,4.1,
+Movie 127,"Comedy, Sci-Fi",Director B,1983,96,2.4,296168.0
+Movie 128,"Action, Comedy",N/A,1980,127,,436619.0
+Movie 129,"Horror, Thriller",Director D,1955,111,1.9,247767.0
+Movie 130,"Comedy, \N, ",,1969,78,9.2,183514.0
+Movie 131,Horror,,1971,150,9.6,229050.0
+Movie 132,"Sci-Fi, Horror",Director A,1993,two hours,7.6,263881.0
+Movie 133,"Romance, , \N",N/A,2001,148,,48714.0
+Movie 134,\N,N/A,2005,N/A,9.6,85285.0
+Movie 135,"Romance, Thriller, ",Director A,2013,121,2.0,
+Movie 136,Drama,Director B,1953,148,5.9,235934.0
+Movie 137,", Adventure, Horror",Director C,2016,79,4.0,400143.0
+Movie 138,"\N, Comedy",N/A,2009,96,2.6,78561.0
+Movie 139,"Drama, Comedy",Director A,202A,71,3.8,191806.0
+Movie 140,"Horror, \N, ",Director B,2019,82,8.8,293874.0
+Movie 141,Horror,Director D,2021,131,6.2,160594.0
+Movie 142,Adventure,Director D,1997,78,4.8,369379.0
+Movie 143,", Thriller, Romance",N/A,1961,157,1.5,210694.0
+Movie 144,"Romance, Sci-Fi, Comedy",Director C,1965,119,2.2,460160.0
+Movie 145,"Sci-Fi, ",Director D,2019,138,9.1,482391.0
+Movie 146,Sci-Fi,Director B,1987,\N,,187378.0
+Movie 147,"\N, Thriller",N/A,1956,143,4.1,244788.0
+Movie 148,"Romance, Drama",Director D,1972,two hours,6.8,434029.0
+Movie 149,"Thriller, Drama",Director C,1964,89,3.8,217475.0
+Movie 150,"Adventure, Thriller",Director C,1997,123,,152236.0
+Movie 151,"Comedy, Sci-Fi, Romance",Director A,1976,76,8.3,349262.0
+Movie 152,"Action, Romance",Director B,1966,175,6.7,270925.0
+Movie 153,"Thriller, \N, Action",Director D,2010,89,7.0,288824.0
+Movie 154,"Action, Romance, \N",Director D,1973,136,8.1,419886.0
+Movie 155,"Comedy, Horror, Sci-Fi",Director D,1971,173,5.6,465323.0
+Movie 156,"Horror, Drama, Romance",Director B,1966,148,1.9,46016.0
+Movie 157,"Action, Adventure",N/A,1993,122,8.8,329924.0
+Movie 158,Romance,Director A,1996,170,6.3,427769.0
+Movie 159,"Comedy, Romance",Director D,2021,77,3.3,142309.0
+Movie 160,,N/A,1999,164,5.8,389023.0
+Movie 161,,Director B,2011,79,1.4,124871.0
+Movie 162,Action,Director A,1951,75,7.3,384551.0
+Movie 163,Drama,Director A,2003,89,9.5,128319.0
+Movie 164,"\N, Thriller",Director C,1965,130,2.6,153854.0
+Movie 165,"Drama, , Horror",Director D,2014,133,,340118.0
+Movie 166,"Sci-Fi, , Romance",Director B,1986,127,1.1,127304.0
+Movie 167,Comedy,Director A,1990,79,3.4,122874.0
+Movie 168,"Action, Adventure, Comedy",N/A,1962,125,,429439.0
+Movie 169,"Romance, Comedy, ",Director D,2012,99,,173401.0
+Movie 170,"Adventure, Action",Director B,2002,123,5.8,
+Movie 171,"Romance, Drama",,202A,152,7.8,413258.0
+Movie 172,"Romance, , Sci-Fi",Director C,1987,106,7.8,73342.0
+Movie 173,"Drama, Adventure, Action",,1965,114,7.4,265617.0
+Movie 174,"Sci-Fi, Thriller",N/A,1959,141,,54101.0
+Movie 175,Adventure,,1993,132,6.9,41247.0
+Movie 176,Comedy,Director C,1970,138,,459198.0
+Movie 177,Adventure,N/A,1958,98,2.0,177899.0
+Movie 178,", Adventure, Drama",Director B,2002,80,2.7,457588.0
+Movie 179,\N,Director D,2009,116,1.6,
+Movie 180,,Director A,1982,128,1.9,204610.0
+Movie 181,Sci-Fi,Director D,2009,147,9.1,328306.0
+Movie 182,", Thriller",Director B,1980,177,,468814.0
+Movie 183,"Horror, Comedy",Director D,1981,170,,5109.0
+Movie 184,"Adventure, Drama, Romance",Director B,2011,164,4.3,386228.0
+Movie 185,"Thriller, Romance, \N",,2005,133,3.0,392127.0
+Movie 186,Comedy,Director C,1959,68,,85110.0
+Movie 187,Thriller,N/A,2003,120,1.2,47824.0
+Movie 188,Horror,Director C,2016,91,5.5,250828.0
+Movie 189,Adventure,Director B,2002,179,6.8,216565.0
+Movie 190,"Thriller, Romance, ",N/A,1990,137,2.2,200069.0
+Movie 191,Sci-Fi,Director A,1997,144,,348627.0
+Movie 192,"\N, Drama, Sci-Fi",Director C,1962,139,8.7,204657.0
+Movie 193,"Horror, \N, Thriller",Director A,1963,81,7.2,431322.0
+Movie 194,,Director D,1973,97,7.0,207669.0
+Movie 195,"Drama, \N",Director C,2015,88,4.8,106422.0
+Movie 196,"Adventure, Action",Director D,1979,148,4.9,381488.0
+Movie 197,"Romance, Comedy, ",Director A,1958,100,,361636.0
+Movie 198,"Thriller, \N, Adventure",Director D,1963,80,4.2,94483.0
+Movie 199,Sci-Fi,N/A,1999,93,1.6,81141.0
+Movie 200,Adventure,,1972,115,,
+Movie 201,Comedy,Director B,2005,129,5.5,292435.0
+Movie 202,Action,Director D,\N,149,1.0,11263.0
+Movie 203,\N,,1976,N/A,7.8,219292.0
+Movie 204,"Drama, Sci-Fi",Director C,1969,129,4.3,483067.0
+Movie 205,Action,Director D,2018,171,8.3,237960.0
+Movie 206,Comedy,Director A,1984,121,6.1,331094.0
+Movie 207,"Sci-Fi, , \N",Director C,1967,114,6.0,441142.0
+Movie 208,", Drama",N/A,2006,158,4.6,380752.0
+Movie 209,"Horror, Romance",Director B,2007,118,4.6,309112.0
+Movie 210,Romance,Director D,1997,78,7.0,329080.0
+Movie 211,\N,Director B,1964,105,7.4,246332.0
+Movie 212,Action,Director C,1957,179,1.4,119849.0
+Movie 213,Action,Director D,2002,76,4.5,169831.0
+Movie 214,"Romance, Horror",Director C,1982,137,5.6,53544.0
+Movie 215,"Drama, Action, ",Director A,1975,157,,231481.0
+Movie 216,,Director C,1958,139,2.7,436033.0
+Movie 217,Horror,Director C,1969,105,,411140.0
+Movie 218,,Director C,1955,149,2.4,481031.0
+Movie 219,"Action, Adventure",Director D,1973,160,7.1,167806.0
+Movie 220,\N,Director A,1976,146,6.7,112615.0
+Movie 221,"Adventure, Sci-Fi",N/A,1954,147,5.3,
+Movie 222,Thriller,N/A,1956,70,7.7,404905.0
+Movie 223,", Action, Thriller",Director D,\N,166,1.8,312226.0
+Movie 224,"\N, Drama, Thriller",Director B,2012,88,8.6,334475.0
+Movie 225,Action,N/A,2020,140,7.0,114009.0
+Movie 226,"Action, Romance, Sci-Fi",Director A,2001,173,5.1,41513.0
+Movie 227,Horror,Director A,2022,155,5.4,310381.0
+Movie 228,"Adventure, Sci-Fi, Romance",Director B,2021,180,2.6,150942.0
+Movie 229,Action,Director B,1998,177,2.9,88951.0
+Movie 230,Thriller,Director C,202A,154,5.2,213118.0
+Movie 231,"Action, Thriller",Director A,2009,84,8.0,76698.0
+Movie 232,"\N, Comedy",,1953,72,2.5,285229.0
+Movie 233,,Director D,2016,90,1.1,481730.0
+Movie 234,"\N, Sci-Fi",Director D,1990,154,6.8,31901.0
+Movie 235,"Adventure, ",Director A,2003,136,9.0,386132.0
+Movie 236,", Action",Director C,1971,150,6.4,488207.0
+Movie 237,"Comedy, Romance, Drama",,1989,61,,408147.0
+Movie 238,"Comedy, Sci-Fi, \N",,1950,151,2.6,271048.0
+Movie 239,Action,Director B,1981,168,2.3,195495.0
+Movie 240,Adventure,Director B,1953,143,5.8,392491.0
+Movie 241,"Horror, Drama, Thriller",Director C,1951,69,7.6,463973.0
+Movie 242,"Horror, Sci-Fi",Director D,N/A,130,4.6,133503.0
+Movie 243,"\N, Action, ",Director B,1961,115,2.6,208455.0
+Movie 244,", Sci-Fi",N/A,1987,115,,45672.0
+Movie 245,"Adventure, \N, Horror",,1950,65,3.3,115946.0
+Movie 246,"\N, Romance, Drama",Director D,1971,177,1.3,139125.0
+Movie 247,,Director A,1989,87,4.3,10702.0
+Movie 248,"Horror, Drama, Sci-Fi",Director B,1985,174,9.0,251871.0
+Movie 249,"Horror, Adventure",Director B,2013,127,,191196.0
+Movie 250,"\N, Adventure, Horror",Director A,1982,112,2.4,418361.0
+Movie 251,"Sci-Fi, Adventure, Romance",Director A,2018,142,7.8,175666.0
+Movie 252,,Director A,1985,63,6.1,323365.0
+Movie 253,"Sci-Fi, Romance, Drama",N/A,1951,62,9.6,37808.0
+Movie 254,,Director B,1977,108,2.1,196581.0
+Movie 255,\N,Director D,2007,63,9.4,19539.0
+Movie 256,Drama,N/A,1957,92,7.7,101041.0
+Movie 257,"Drama, Comedy",Director C,1962,61,4.5,17117.0
+Movie 258,"Action, \N, Drama",Director B,1989,84,9.5,21088.0
+Movie 259,"Sci-Fi, Comedy",N/A,2019,154,3.3,430705.0
+Movie 260,Thriller,,1959,93,7.1,132062.0
+Movie 261,"Comedy, Horror",Director D,2005,151,,378030.0
+Movie 262,"Thriller, Sci-Fi, Horror",N/A,1973,153,5.6,254348.0
+Movie 263,"Comedy, Sci-Fi",Director D,2018,168,6.1,
+Movie 264,"\N, Thriller",Director D,1950,100,6.8,494981.0
+Movie 265,Sci-Fi,N/A,2005,104,6.5,117133.0
+Movie 266,"Sci-Fi, Romance",Director B,1987,81,5.4,475997.0
+Movie 267,"Action, ",N/A,1951,142,8.3,231582.0
+Movie 268,"\N, Comedy, Romance",,1972,130,7.6,352403.0
+Movie 269,"Drama, Horror",Director B,1973,135,9.9,274075.0
+Movie 270,"Comedy, Horror",Director C,1965,93,3.4,370460.0
+Movie 271,\N,,2016,164,5.2,175965.0
+Movie 272,Comedy,Director A,2011,101,1.7,413964.0
+Movie 273,", Drama",Director B,2004,123,2.5,147917.0
+Movie 274,,Director B,1967,117,4.9,364425.0
+Movie 275,"Drama, Horror",Director C,1981,82,,138448.0
+Movie 276,Thriller,N/A,1971,116,3.1,258177.0
+Movie 277,"Sci-Fi, Romance",N/A,2016,74,2.2,138975.0
+Movie 278,", Action",,2021,163,1.2,386991.0
+Movie 279,"Horror, Romance, Sci-Fi",Director D,\N,128,1.8,52813.0
+Movie 280,"Drama, Sci-Fi",Director A,1985,166,6.5,424500.0
+Movie 281,"Adventure, Drama",Director B,1956,167,4.4,329139.0
+Movie 282,Romance,N/A,1952,163,4.6,59386.0
+Movie 283,Sci-Fi,Director D,1997,65,8.9,6892.0
+Movie 284,"Romance, Sci-Fi",,2011,N/A,3.1,176805.0
+Movie 285,Thriller,Director C,1985,108,9.1,401912.0
+Movie 286,Comedy,Director B,202A,131,7.8,108463.0
+Movie 287,"\N, ",Director B,1998,109,9.7,249373.0
+Movie 288,"Drama, Thriller",,1998,138,3.7,494439.0
+Movie 289,Sci-Fi,Director D,1992,82,5.8,293260.0
+Movie 290,Horror,,1994,85,3.6,108010.0
+Movie 291,Romance,Director C,1985,172,5.2,447485.0
+Movie 292,", Horror, Romance",Director C,1984,104,7.5,
+Movie 293,"Action, Sci-Fi",Director A,2022,N/A,3.4,12484.0
+Movie 294,"Action, Drama, Thriller",Director C,1967,165,2.2,303206.0
+Movie 295,"Comedy, Horror",Director A,1968,76,1.9,
+Movie 296,\N,Director C,2002,79,1.5,61145.0
+Movie 297,Adventure,Director A,1963,102,3.5,467231.0
+Movie 298,"Sci-Fi, Romance",,1962,116,6.9,236518.0
+Movie 299,Thriller,Director D,1959,64,,228267.0
+Movie 300,Drama,Director A,2011,119,2.6,436659.0
+Movie 301,"Romance, Action, Adventure",,202A,93,9.6,359524.0
+Movie 302,"Adventure, Sci-Fi, Comedy",,2010,64,4.3,
+Movie 303,"Drama, Adventure, ",,1991,67,4.3,483325.0
+Movie 304,"Drama, Adventure, ",Director C,2004,173,8.6,401787.0
+Movie 305,"Adventure, Horror",Director B,2023,85,2.3,339699.0
+Movie 306,"Adventure, Action",Director A,1990,63,,232908.0
+Movie 307,"Adventure, Sci-Fi, \N",Director A,1989,157,4.9,65463.0
+Movie 308,,N/A,2022,141,,385512.0
+Movie 309,Action,Director D,2021,176,4.1,92166.0
+Movie 310,Romance,N/A,1978,158,4.5,64891.0
+Movie 311,Action,Director A,2021,133,5.8,
+Movie 312,Drama,Director D,2015,113,6.5,232474.0
+Movie 313,"Comedy, Drama, ",,1969,83,,57823.0
+Movie 314,Sci-Fi,,2002,102,5.8,397573.0
+Movie 315,"Action, \N, Thriller",,2000,107,5.5,31911.0
+Movie 316,"Sci-Fi, Thriller",Director B,1992,113,5.6,281480.0
+Movie 317,"Thriller, Adventure, Drama",N/A,2004,111,4.8,23968.0
+Movie 318,"Horror, Action, Adventure",Director B,2018,107,7.4,294734.0
+Movie 319,"Sci-Fi, Romance, \N",Director A,1954,179,,109157.0
+Movie 320,"\N, , Drama",Director D,1990,77,7.5,326971.0
+Movie 321,Sci-Fi,Director D,1997,115,1.4,331955.0
+Movie 322,"Sci-Fi, Adventure",Director B,1953,112,9.1,433581.0
+Movie 323,"Thriller, Romance",Director C,1987,85,8.1,189301.0
+Movie 324,Sci-Fi,Director C,1967,165,1.7,345166.0
+Movie 325,", Sci-Fi",Director B,1960,140,4.9,381870.0
+Movie 326,"\N, Drama",Director D,1973,156,4.0,16219.0
+Movie 327,"Action, Comedy, Drama",Director A,2018,94,4.2,321739.0
+Movie 328,Horror,N/A,1974,103,4.0,233760.0
+Movie 329,"\N, Sci-Fi, Adventure",N/A,1959,129,5.2,154401.0
+Movie 330,"Thriller, Horror",Director C,2005,159,7.5,140688.0
+Movie 331,,Director C,1953,178,2.1,136728.0
+Movie 332,Sci-Fi,Director D,1968,134,7.9,334348.0
+Movie 333,"Comedy, Adventure",,2017,163,8.2,202384.0
+Movie 334,"Romance, Sci-Fi, ",Director C,2002,92,2.9,
+Movie 335,Horror,Director D,1992,126,3.2,317222.0
+Movie 336,"Drama, Action",,2008,179,,125431.0
+Movie 337,Sci-Fi,N/A,2013,68,1.6,330379.0
+Movie 338,"Drama, Action, Romance",Director A,2022,61,,387971.0
+Movie 339,"Action, Comedy, Horror",N/A,1980,154,3.7,197653.0
+Movie 340,Thriller,Director A,1964,135,6.5,406061.0
+Movie 341,Sci-Fi,,2001,69,4.8,438259.0
+Movie 342,"Thriller, Comedy, Adventure",Director C,1966,136,3.1,380341.0
+Movie 343,", Horror",N/A,1996,71,5.9,118555.0
+Movie 344,"Adventure, , Comedy",,2016,133,4.5,
+Movie 345,"\N, Comedy",Director A,1997,141,7.4,137599.0
+Movie 346,"Thriller, Comedy",Director A,1981,152,6.5,447215.0
+Movie 347,"Drama, Thriller, Adventure",Director B,1979,63,5.2,139169.0
+Movie 348,Drama,Director C,2001,152,9.9,419568.0
+Movie 349,"Sci-Fi, Romance, Adventure",Director B,1977,69,9.6,97869.0
+Movie 350,Drama,,1984,92,6.6,336339.0
+Movie 351,"Action, Comedy",Director B,1961,72,10.0,178017.0
+Movie 352,Drama,Director D,1973,166,4.7,210046.0
+Movie 353,"Comedy, Thriller",N/A,2016,132,6.8,75291.0
+Movie 354,"Sci-Fi, Action, Adventure",N/A,1995,169,2.9,253149.0
+Movie 355,Drama,Director D,1961,132,6.1,356467.0
+Movie 356,Drama,Director A,1951,84,2.4,275056.0
+Movie 357,"Action, Romance, \N",N/A,2008,145,2.2,195690.0
+Movie 358,", Sci-Fi",Director D,2006,150,2.9,262017.0
+Movie 359,"Adventure, Comedy, Romance",N/A,2014,167,5.7,15985.0
+Movie 360,"Adventure, , Thriller",Director A,2000,154,7.1,48703.0
+Movie 361,Action,Director D,2011,167,7.4,282947.0
+Movie 362,"Comedy, Sci-Fi, Action",,2023,N/A,1.2,282291.0
+Movie 363,"Action, \N, Adventure",,1996,140,6.2,419027.0
+Movie 364,"Thriller, Drama, Comedy",Director B,2022,106,8.6,39813.0
+Movie 365,", Thriller",Director D,1957,160,9.6,143449.0
+Movie 366,"Horror, Romance, Drama",Director D,1950,126,7.1,481355.0
+Movie 367,"Thriller, Adventure, \N",Director D,1972,130,7.9,200754.0
+Movie 368,"Action, Drama, Horror",,1995,148,5.9,428216.0
+Movie 369,"Adventure, Thriller",Director B,1995,90,,117581.0
+Movie 370,"Comedy, Thriller",,1998,two hours,9.6,124260.0
+Movie 371,"Horror, \N, Drama",Director B,1975,83,3.3,474148.0
+Movie 372,"Sci-Fi, Horror, Romance",Director A,2013,142,5.6,97486.0
+Movie 373,Horror,Director D,1998,\N,7.2,433120.0
+Movie 374,"Comedy, Drama",Director B,1987,87,5.6,83011.0
+Movie 375,"Romance, Comedy",Director B,1974,61,8.8,72339.0
+Movie 376,"Adventure, \N",Director D,2017,two hours,6.8,
+Movie 377,"\N, , Comedy",,1979,89,6.1,496628.0
+Movie 378,Horror,Director B,1982,117,5.4,5034.0
+Movie 379,"Adventure, Thriller",Director D,1997,144,5.7,462973.0
+Movie 380,Romance,Director C,1973,131,4.1,44322.0
+Movie 381,Comedy,N/A,1958,132,3.8,72962.0
+Movie 382,Drama,Director C,2019,87,8.3,84667.0
+Movie 383,"\N, Thriller, Romance",Director A,2020,73,6.6,190685.0
+Movie 384,"\N, Sci-Fi, Thriller",Director A,1955,66,8.6,8150.0
+Movie 385,"Drama, \N",N/A,1974,69,9.3,252985.0
+Movie 386,"Horror, Drama",,1955,63,8.2,269200.0
+Movie 387,"Sci-Fi, \N, Action",Director D,2017,127,1.4,374024.0
+Movie 388,"Sci-Fi, Thriller",N/A,2014,155,9.1,434397.0
+Movie 389,", Romance, Adventure",N/A,2018,170,7.8,438633.0
+Movie 390,,Director D,1971,61,2.7,430954.0
+Movie 391,"Drama, Comedy, ",Director A,1967,160,3.4,328386.0
+Movie 392,Adventure,Director B,1990,146,7.8,354634.0
+Movie 393,", Adventure, Thriller",N/A,1997,175,6.6,64917.0
+Movie 394,"Action, Drama, ",Director D,1969,107,,419793.0
+Movie 395,"Drama, ",Director A,1997,73,5.8,
+Movie 396,Sci-Fi,,2006,83,2.1,96905.0
+Movie 397,Drama,Director B,2009,116,1.9,221354.0
+Movie 398,", \N",N/A,2019,83,,219128.0
+Movie 399,Action,N/A,1974,120,1.2,332021.0
+Movie 400,"\N, Thriller",Director C,1953,139,9.8,18642.0
+Movie 401,"Adventure, Drama, Action",Director C,1951,97,,294735.0
+Movie 402,"\N, Horror",Director D,2021,137,2.7,86265.0
+Movie 403,"Sci-Fi, Romance",N/A,1978,96,9.6,215955.0
+Movie 404,"Comedy, \N",Director B,2001,64,4.1,261550.0
+Movie 405,\N,Director C,2013,93,4.0,164968.0
+Movie 406,"\N, , Drama",Director A,1973,83,5.1,371741.0
+Movie 407,"Comedy, Horror",,1953,94,9.1,460539.0
+Movie 408,"Sci-Fi, Adventure, ",N/A,1970,155,7.9,301370.0
+Movie 409,"Comedy, Adventure, Romance",Director A,1954,133,9.9,207519.0
+Movie 410,"Horror, Romance, Drama",Director D,2019,65,7.8,52387.0
+Movie 411,"Romance, , Comedy",N/A,1962,97,1.6,235798.0
+Movie 412,Adventure,Director B,1958,73,,399790.0
+Movie 413,"Romance, Adventure",Director A,1990,86,7.0,140813.0
+Movie 414,"Thriller, , Horror",,1994,68,,299698.0
+Movie 415,"Comedy, , \N",Director B,1963,129,1.0,444472.0
+Movie 416,"\N, Action, Sci-Fi",Director B,1980,176,2.5,213359.0
+Movie 417,"Action, Sci-Fi, Thriller",Director B,1996,121,6.8,10232.0
+Movie 418,Sci-Fi,Director B,1992,86,3.1,270467.0
+Movie 419,Drama,N/A,2011,165,1.6,432388.0
+Movie 420,"Horror, Thriller",Director C,1982,70,8.0,275890.0
+Movie 421,"Horror, Drama, Sci-Fi",,1982,140,8.2,399758.0
+Movie 422,", \N",Director B,1967,146,8.0,378435.0
+Movie 423,Horror,Director B,2022,158,6.2,71455.0
+Movie 424,Adventure,Director D,1954,88,7.8,484796.0
+Movie 425,"Sci-Fi, Romance",Director A,1972,158,2.8,392144.0
+Movie 426,", Romance, Thriller",Director D,1971,88,5.7,354576.0
+Movie 427,"Romance, Thriller",,2003,154,8.7,417894.0
+Movie 428,"Romance, Sci-Fi, Thriller",Director B,2006,180,1.1,288764.0
+Movie 429,Horror,Director B,2000,106,2.0,346563.0
+Movie 430,Horror,Director A,202A,156,6.1,274638.0
+Movie 431,"Action, Sci-Fi",Director B,2023,129,2.9,339508.0
+Movie 432,"Adventure, Action, Comedy",Director A,2021,112,8.3,276937.0
+Movie 433,"Horror, Adventure, ",,1968,178,5.7,23966.0
+Movie 434,Comedy,N/A,2007,75,8.9,406906.0
+Movie 435,Comedy,N/A,1984,124,4.2,268691.0
+Movie 436,"Romance, Action, Adventure",Director A,2016,173,9.2,112211.0
+Movie 437,Action,Director C,1955,179,8.8,170124.0
+Movie 438,\N,N/A,1977,77,,98601.0
+Movie 439,"Adventure, Horror",Director D,2002,178,9.4,435620.0
+Movie 440,Drama,Director B,2001,146,2.8,297040.0
+Movie 441,"Comedy, Action",,2004,138,4.3,484162.0
+Movie 442,"Romance, ",,1993,78,7.4,11949.0
+Movie 443,"\N, , Adventure",Director C,1975,116,2.6,53833.0
+Movie 444,Thriller,Director B,1951,158,7.8,387543.0
+Movie 445,Sci-Fi,Director C,1973,86,2.7,258946.0
+Movie 446,,Director B,1996,111,1.6,97115.0
+Movie 447,"Thriller, Action, Sci-Fi",Director D,2020,162,2.8,277865.0
+Movie 448,"Action, Sci-Fi",N/A,1992,129,6.9,204081.0
+Movie 449,Sci-Fi,Director A,1974,77,9.5,403016.0
+Movie 450,"Romance, , Comedy",Director C,1965,98,1.5,296444.0
+Movie 451,Romance,Director B,2005,129,5.4,25239.0
+Movie 452,"Comedy, Romance, Drama",Director B,202A,120,10.0,406235.0
+Movie 453,"Horror, Comedy, Drama",Director C,1974,152,4.7,403962.0
+Movie 454,"Action, Sci-Fi, Horror",Director D,1953,145,2.1,172388.0
+Movie 455,"Thriller, Drama",Director A,1953,88,8.0,329651.0
+Movie 456,Thriller,N/A,2012,71,7.6,331574.0
+Movie 457,"Thriller, Horror",Director B,2003,96,1.7,128692.0
+Movie 458,"Drama, ",Director D,2021,131,3.2,313585.0
+Movie 459,"Thriller, Drama",Director B,2009,89,2.9,89040.0
+Movie 460,", Sci-Fi",Director B,2022,142,3.5,164417.0
+Movie 461,"Romance, Comedy",Director A,1979,117,3.0,342915.0
+Movie 462,,N/A,N/A,91,4.9,26289.0
+Movie 463,"\N, Thriller, Drama",,2007,90,8.6,389702.0
+Movie 464,,Director C,1989,118,9.0,281584.0
+Movie 465,"\N, Comedy",Director D,1966,116,6.1,297195.0
+Movie 466,"Romance, Drama, Action",N/A,1993,172,7.5,439443.0
+Movie 467,"Romance, Drama, Horror",Director A,1992,127,1.9,225023.0
+Movie 468,Drama,Director C,1987,125,6.6,
+Movie 469,"\N, Drama, Adventure",Director B,1959,131,,65581.0
+Movie 470,"Drama, Action, Sci-Fi",Director A,1992,78,4.7,288417.0
+Movie 471,"Drama, Comedy, Adventure",Director D,1982,120,4.7,377925.0
+Movie 472,Comedy,Director A,1969,136,1.2,9449.0
+Movie 473,"Action, Thriller, Comedy",Director D,1962,79,5.6,112474.0
+Movie 474,Horror,Director D,2001,114,6.9,438974.0
+Movie 475,Adventure,Director C,2012,107,,43500.0
+Movie 476,"Comedy, Thriller",,1987,92,1.7,396728.0
+Movie 477,"\N, Horror",Director A,1979,139,2.9,332024.0
+Movie 478,", Horror, Thriller",Director C,2016,97,9.8,256559.0
+Movie 479,"\N, Drama, Horror",Director D,1965,63,9.3,
+Movie 480,Sci-Fi,Director D,2003,105,5.0,392234.0
+Movie 481,"Thriller, Action, Horror",Director B,2015,159,9.2,355711.0
+Movie 482,"Adventure, Horror",N/A,1979,139,4.2,368076.0
+Movie 483,\N,Director B,1992,107,8.6,65906.0
+Movie 484,"\N, Sci-Fi, Romance",,1952,76,1.2,301282.0
+Movie 485,Sci-Fi,Director A,1973,137,9.7,418860.0
+Movie 486,"\N, ",,1971,96,8.4,360973.0
+Movie 487,"Sci-Fi, Horror, \N",Director C,1976,117,9.1,475386.0
+Movie 488,"Sci-Fi, Comedy",Director C,1959,77,9.5,240785.0
+Movie 489,", Thriller",Director D,1998,105,9.7,251345.0
+Movie 490,Comedy,Director A,2014,172,8.0,145682.0
+Movie 491,"Thriller, Action",Director B,2016,115,9.1,56385.0
+Movie 492,"Drama, Horror, Adventure",Director D,1972,133,4.8,70692.0
+Movie 493,"Horror, \N, Action",N/A,1977,63,,174020.0
+Movie 494,", Horror, Adventure",Director C,202A,64,,121814.0
+Movie 495,Thriller,,1998,86,5.9,42196.0
+Movie 496,Romance,Director C,1992,152,5.8,491653.0
+Movie 497,Sci-Fi,Director D,1986,156,3.3,6654.0
+Movie 498,"Horror, Comedy, Drama",,1984,78,9.4,108092.0
+Movie 499,"Thriller, ",Director B,1975,70,9.1,309275.0
+Movie 500,"Comedy, Sci-Fi, Romance",,2011,121,2.5,237077.0
+Movie 501,", \N",Director B,1978,142,8.6,75819.0
+Movie 502,Drama,,2011,97,5.7,467102.0
+Movie 503,"Drama, Horror, Action",N/A,1991,64,4.2,25299.0
+Movie 504,Comedy,N/A,2012,95,8.4,245721.0
+Movie 505,Thriller,Director A,1963,145,7.8,125073.0
+Movie 506,"Adventure, Drama",Director B,2018,135,9.7,356149.0
+Movie 507,"\N, Comedy",Director A,202A,120,8.2,407133.0
+Movie 508,\N,N/A,1968,170,5.8,332054.0
+Movie 509,", Horror",Director B,2006,167,7.3,489728.0
+Movie 510,Sci-Fi,N/A,1975,132,7.4,376489.0
+Movie 511,"Comedy, Thriller, \N",Director C,1988,109,6.8,33145.0
+Movie 512,"Romance, Adventure, ",Director C,N/A,79,4.0,87714.0
+Movie 513,"Romance, Thriller, Comedy",Director D,202A,127,,381409.0
+Movie 514,Sci-Fi,N/A,2020,107,5.2,111375.0
+Movie 515,,Director D,1958,135,4.4,126401.0
+Movie 516,"Action, Thriller",N/A,2010,158,5.9,270279.0
+Movie 517,"Adventure, Drama, Thriller",Director D,1950,122,5.6,56296.0
+Movie 518,Comedy,Director C,1980,136,,214582.0
+Movie 519,Action,Director D,1973,154,3.2,233185.0
+Movie 520,"Comedy, Drama, Adventure",Director D,2014,157,9.0,489662.0
+Movie 521,\N,Director A,1981,93,8.6,476657.0
+Movie 522,"Horror, Action, Romance",Director B,2021,172,7.2,66693.0
+Movie 523,"Romance, Drama, Thriller",Director B,1984,160,1.8,130050.0
+Movie 524,", Comedy, Sci-Fi",Director B,1978,164,6.5,16700.0
+Movie 525,Horror,Director A,1970,61,7.2,294198.0
+Movie 526,"Romance, Horror",Director A,1982,64,3.4,390853.0
+Movie 527,"Action, Romance, Comedy",Director C,1973,81,,155563.0
+Movie 528,"Sci-Fi, Horror",Director A,2012,177,7.2,
+Movie 529,"Sci-Fi, Action, Horror",Director A,1986,149,8.6,120534.0
+Movie 530,"\N, Horror, Romance",,1984,64,,413588.0
+Movie 531,Adventure,Director B,1966,117,7.9,399867.0
+Movie 532,"\N, Action, Horror",Director C,1972,\N,2.8,415041.0
+Movie 533,"Thriller, Sci-Fi",,2003,124,9.2,439460.0
+Movie 534,"Adventure, \N",Director A,1960,170,8.6,407695.0
+Movie 535,", Drama, Adventure",,N/A,169,9.9,85014.0
+Movie 536,Thriller,N/A,2018,60,5.7,52705.0
+Movie 537,"\N, Drama, Sci-Fi",,1997,\N,7.0,113503.0
+Movie 538,"Comedy, Adventure",Director B,2015,100,3.6,158473.0
+Movie 539,"Action, , Horror",Director A,2002,114,6.5,366867.0
+Movie 540,Adventure,Director B,1970,149,9.7,71035.0
+Movie 541,,Director A,1962,107,4.5,71230.0
+Movie 542,"Drama, Adventure, Comedy",,1970,160,6.8,415665.0
+Movie 543,"Action, Thriller",Director A,1952,99,,305640.0
+Movie 544,Horror,Director D,2016,158,1.7,420260.0
+Movie 545,"Romance, Comedy, Adventure",Director D,1974,123,4.2,165691.0
+Movie 546,"Drama, Comedy",Director B,1980,143,,413005.0
+Movie 547,,Director B,2013,126,,179463.0
+Movie 548,Horror,Director B,1970,176,4.1,217008.0
+Movie 549,"Horror, Adventure, Comedy",,2000,110,2.6,222262.0
+Movie 550,"Action, Comedy",Director A,1981,102,5.9,67980.0
+Movie 551,"Thriller, Drama, ",Director D,1994,89,5.8,67786.0
+Movie 552,Horror,N/A,1975,132,3.5,273707.0
+Movie 553,"Horror, Sci-Fi",Director C,1984,86,1.3,436690.0
+Movie 554,"Action, Romance, Adventure",,1994,170,6.2,
+Movie 555,Comedy,,1967,102,9.2,129172.0
+Movie 556,"Romance, Adventure, Horror",Director C,1987,145,7.1,416859.0
+Movie 557,Thriller,Director C,\N,148,2.3,30035.0
+Movie 558,"Thriller, Action, Comedy",Director A,1967,120,1.8,155468.0
+Movie 559,"Sci-Fi, Action",,1965,175,1.4,407956.0
+Movie 560,Sci-Fi,Director C,1982,122,5.9,633.0
+Movie 561,Horror,Director A,2004,120,6.9,153564.0
+Movie 562,"Action, Horror",,2022,163,,141137.0
+Movie 563,Horror,,1973,60,1.3,474186.0
+Movie 564,\N,Director A,1974,112,,437830.0
+Movie 565,"Comedy, Drama",Director D,1968,73,2.0,6154.0
+Movie 566,,Director A,1953,124,3.8,92428.0
+Movie 567,", \N",Director D,1963,88,3.8,267494.0
+Movie 568,"Action, Comedy",,1971,144,,236365.0
+Movie 569,"\N, Comedy",Director D,1978,78,,213908.0
+Movie 570,"Horror, \N, Drama",Director D,1976,64,1.3,11497.0
+Movie 571,"Adventure, Comedy, Romance",Director A,2016,77,6.7,363908.0
+Movie 572,"Adventure, Action, \N",N/A,1964,111,2.5,187390.0
+Movie 573,"Adventure, Drama, Sci-Fi",Director B,2001,62,,474041.0
+Movie 574,"Thriller, Sci-Fi, Action",Director C,1998,146,8.3,
+Movie 575,"Drama, Romance",Director C,2021,119,,36434.0
+Movie 576,"Horror, Thriller",Director C,1952,145,1.3,300056.0
+Movie 577,"Adventure, Drama",Director C,2001,155,8.4,22320.0
+Movie 578,"Action, Horror, Comedy",N/A,2011,151,8.3,16294.0
+Movie 579,Action,Director A,1987,146,8.3,399730.0
+Movie 580,"Comedy, Drama, Adventure",Director A,2010,131,5.1,111379.0
+Movie 581,"Action, Sci-Fi",Director A,1973,152,2.0,427310.0
+Movie 582,Thriller,Director D,2018,117,1.2,450894.0
+Movie 583,Thriller,Director A,2020,144,5.6,441046.0
+Movie 584,"Romance, Action, Horror",Director B,2009,154,3.8,260263.0
+Movie 585,"Action, Thriller, Sci-Fi",N/A,2006,148,8.6,370411.0
+Movie 586,Drama,,202A,74,4.1,32632.0
+Movie 587,", Comedy",Director C,1980,153,6.7,162419.0
+Movie 588,"Thriller, Horror, ",Director C,1969,77,3.0,87648.0
+Movie 589,"Comedy, Sci-Fi, Horror",N/A,1964,169,8.4,323814.0
+Movie 590,Thriller,Director B,2000,174,5.9,
+Movie 591,,N/A,2005,96,5.1,431833.0
+Movie 592,"Thriller, Drama, Comedy",Director D,1992,106,5.7,91008.0
+Movie 593,"Thriller, Comedy",Director A,1990,65,4.4,283859.0
+Movie 594,"Comedy, Adventure",Director C,2002,148,3.0,393758.0
+Movie 595,Romance,Director D,1981,67,3.8,415339.0
+Movie 596,"\N, Adventure",Director D,1992,82,,46166.0
+Movie 597,"Horror, Sci-Fi",,2006,110,3.2,227211.0
+Movie 598,", Thriller",N/A,1987,80,8.4,295228.0
+Movie 599,Sci-Fi,Director A,2002,114,,
+Movie 600,"Drama, Action, Horror",Director B,1986,62,4.7,219531.0
+Movie 601,", Romance, Drama",Director C,1977,135,9.7,
+Movie 602,Horror,Director C,1970,160,6.4,178997.0
+Movie 603,Action,Director C,2015,114,7.2,307343.0
+Movie 604,Horror,Director A,2011,156,7.4,182871.0
+Movie 605,"Thriller, Drama, Comedy",Director C,1984,94,7.4,111367.0
+Movie 606,"Action, Romance",,1955,106,3.6,465512.0
+Movie 607,"\N, Thriller",Director B,1962,175,8.5,307002.0
+Movie 608,\N,N/A,2013,147,2.0,
+Movie 609,"Comedy, Sci-Fi, Thriller",Director A,1984,two hours,4.7,68145.0
+Movie 610,Adventure,,1951,104,9.9,299723.0
+Movie 611,Thriller,,1993,161,3.6,209038.0
+Movie 612,"\N, Drama",,2006,105,7.2,299559.0
+Movie 613,Horror,Director A,1981,168,3.9,121551.0
+Movie 614,Adventure,N/A,1970,143,3.1,294834.0
+Movie 615,Thriller,N/A,1970,64,5.6,155482.0
+Movie 616,"Drama, Sci-Fi, Comedy",Director D,2014,151,2.3,143676.0
+Movie 617,\N,Director C,1994,176,8.6,378949.0
+Movie 618,"Romance, , Thriller",N/A,2002,129,2.0,182805.0
+Movie 619,"Horror, Action",Director B,2007,150,8.9,266324.0
+Movie 620,", Sci-Fi",,2011,61,1.9,471648.0
+Movie 621,"Sci-Fi, Thriller",Director A,1954,82,5.7,325008.0
+Movie 622,"\N, Comedy",Director A,1950,167,6.9,265650.0
+Movie 623,Action,Director D,2022,74,3.2,482312.0
+Movie 624,\N,Director A,1998,166,8.3,123392.0
+Movie 625,"Horror, Thriller",Director A,1995,67,7.3,185172.0
+Movie 626,"Action, \N",Director B,1983,102,7.3,104443.0
+Movie 627,"Adventure, Thriller, Sci-Fi",,1991,125,,345392.0
+Movie 628,"Action, \N, Romance",Director A,2020,170,7.9,366002.0
+Movie 629,"Action, \N, ",Director B,1990,143,6.8,30167.0
+Movie 630,"Sci-Fi, Romance",Director D,1990,65,2.2,277877.0
+Movie 631,"Adventure, ",Director A,1953,158,4.2,26391.0
+Movie 632,"Comedy, \N",Director A,1955,90,4.5,
+Movie 633,Romance,Director C,1964,67,7.8,232046.0
+Movie 634,\N,N/A,2015,105,9.9,
+Movie 635,Horror,Director B,1972,170,,75170.0
+Movie 636,"Comedy, Horror",,2015,94,5.9,121662.0
+Movie 637,"Adventure, Horror",Director D,1971,60,1.5,2669.0
+Movie 638,"Horror, Adventure",N/A,1953,102,1.4,266527.0
+Movie 639,"Sci-Fi, , Comedy",,1970,121,2.1,425537.0
+Movie 640,"Thriller, \N",Director C,1962,112,7.9,47423.0
+Movie 641,"\N, Comedy",Director B,2017,133,3.5,342299.0
+Movie 642,"Horror, Drama",Director B,2023,91,6.0,132689.0
+Movie 643,"Thriller, Sci-Fi, Action",Director C,1998,60,9.5,37506.0
+Movie 644,Romance,N/A,1953,171,9.3,428874.0
+Movie 645,"Drama, Thriller, Horror",Director B,1989,77,7.1,401875.0
+Movie 646,"Horror, ",Director B,2018,74,2.2,303042.0
+Movie 647,"Romance, Thriller",Director B,1996,180,3.2,23265.0
+Movie 648,"Drama, Comedy",Director C,2001,64,7.7,424687.0
+Movie 649,"Drama, Action",Director D,1984,118,4.3,32470.0
+Movie 650,,Director D,1975,141,1.4,237546.0
+Movie 651,Romance,,2019,124,8.6,273027.0
+Movie 652,\N,Director D,1976,121,5.2,487532.0
+Movie 653,Romance,Director A,2002,175,8.9,267232.0
+Movie 654,", \N, Action",,2001,129,5.6,230802.0
+Movie 655,Drama,,1994,161,9.7,137011.0
+Movie 656,"\N, Adventure, ",,1970,101,6.0,183773.0
+Movie 657,Romance,,1991,156,5.5,82590.0
+Movie 658,", Sci-Fi",Director C,2008,100,7.3,345423.0
+Movie 659,"Action, Drama",Director D,2016,88,2.4,181250.0
+Movie 660,"\N, Adventure, Thriller",Director A,1985,100,6.9,246807.0
+Movie 661,"Horror, ",N/A,202A,174,1.5,13660.0
+Movie 662,"Adventure, Drama, Sci-Fi",,1956,92,7.7,448129.0
+Movie 663,"Adventure, , Drama",Director C,2003,110,1.9,301252.0
+Movie 664,"Romance, Sci-Fi",,1997,177,5.6,57994.0
+Movie 665,"Action, Adventure",Director A,1960,134,1.8,305865.0
+Movie 666,"Drama, Adventure, Sci-Fi",N/A,1962,116,3.2,72912.0
+Movie 667,Action,N/A,1984,132,2.5,39420.0
+Movie 668,"Romance, Adventure, Drama",N/A,2010,84,8.1,350527.0
+Movie 669,"Drama, Thriller, \N",,1951,106,7.8,349599.0
+Movie 670,"Thriller, Romance",Director B,1987,102,,493661.0
+Movie 671,"Action, , Horror",Director A,2007,150,1.9,169227.0
+Movie 672,"Thriller, Drama, Adventure",Director A,1981,173,7.4,1876.0
+Movie 673,,Director B,1953,78,4.3,249150.0
+Movie 674,Action,Director A,1994,134,5.4,88466.0
+Movie 675,Horror,Director D,N/A,170,,81164.0
+Movie 676,"Horror, Sci-Fi",Director C,1961,124,7.4,159435.0
+Movie 677,"Action, Romance",N/A,1966,86,7.4,484288.0
+Movie 678,"Action, Horror",Director C,N/A,106,1.7,198959.0
+Movie 679,Adventure,,2003,112,1.3,138290.0
+Movie 680,"Drama, Romance, Comedy",Director C,2014,150,2.1,460497.0
+Movie 681,Horror,Director D,2021,171,7.3,371283.0
+Movie 682,"\N, Drama, Sci-Fi",Director B,1972,108,6.4,386626.0
+Movie 683,"Drama, Comedy, Adventure",Director A,1967,65,9.5,451112.0
+Movie 684,Adventure,Director B,2007,68,3.5,72805.0
+Movie 685,Horror,,1954,123,3.6,453332.0
+Movie 686,"Sci-Fi, Romance",N/A,1955,63,5.0,394668.0
+Movie 687,Romance,N/A,1956,71,,61861.0
+Movie 688,Action,N/A,1993,137,5.9,381499.0
+Movie 689,"Sci-Fi, Romance",N/A,1971,177,4.9,308869.0
+Movie 690,\N,,1964,128,6.3,212338.0
+Movie 691,"Romance, Action, ",,1989,123,9.4,
+Movie 692,"Action, Comedy",N/A,2000,156,4.8,193447.0
+Movie 693,"Thriller, Action",N/A,1995,151,1.6,80587.0
+Movie 694,Sci-Fi,Director A,1987,85,6.9,387299.0
+Movie 695,Adventure,,2010,112,3.4,35126.0
+Movie 696,"Romance, Sci-Fi",N/A,2023,168,,60536.0
+Movie 697,"Comedy, Adventure, Action",Director D,2000,155,5.4,446381.0
+Movie 698,"Sci-Fi, Action, ",N/A,N/A,125,2.2,457903.0
+Movie 699,"Adventure, Comedy",Director C,1955,178,9.9,37824.0
+Movie 700,"Thriller, Adventure, Action",Director D,1973,129,,97578.0
+Movie 701,"\N, Comedy, Horror",Director D,1950,60,,208263.0
+Movie 702,"Sci-Fi, Thriller",Director D,1951,123,,110226.0
+Movie 703,Drama,,1985,110,5.2,77375.0
+Movie 704,Romance,,2020,97,1.1,221109.0
+Movie 705,"Horror, Action, Drama",Director D,1968,87,5.4,145841.0
+Movie 706,"Adventure, Thriller, Action",Director D,2014,179,9.5,93307.0
+Movie 707,"\N, Action",Director B,1970,138,5.1,66348.0
+Movie 708,"Comedy, Drama, Action",Director B,1987,123,6.9,39599.0
+Movie 709,Romance,Director C,2010,75,2.7,451404.0
+Movie 710,"Thriller, Romance",N/A,1972,143,5.1,238851.0
+Movie 711,"Adventure, Comedy",Director B,2004,167,9.8,340399.0
+Movie 712,"Adventure, Action, Romance",N/A,1982,154,1.3,250236.0
+Movie 713,Sci-Fi,N/A,1951,170,,466827.0
+Movie 714,"\N, Drama",Director D,1972,175,6.9,411110.0
+Movie 715,Drama,Director A,2019,138,7.8,375217.0
+Movie 716,Romance,,1982,151,4.9,38709.0
+Movie 717,"Adventure, Romance, Action",N/A,1972,110,2.8,320655.0
+Movie 718,"\N, , Drama",Director B,1955,125,4.2,361895.0
+Movie 719,"Sci-Fi, Drama",Director B,1962,100,2.7,455624.0
+Movie 720,"Drama, Adventure, Horror",Director C,2023,146,,469936.0
+Movie 721,"Action, Thriller",Director D,1989,115,1.6,215019.0
+Movie 722,"Sci-Fi, Action, Horror",N/A,1952,92,,62142.0
+Movie 723,"Romance, Comedy",Director B,2022,79,5.1,127814.0
+Movie 724,Horror,N/A,2001,70,3.3,319867.0
+Movie 725,Sci-Fi,N/A,1997,89,9.3,284831.0
+Movie 726,Drama,Director A,1954,70,5.1,342319.0
+Movie 727,"Adventure, \N",Director B,2002,64,4.7,221344.0
+Movie 728,Adventure,Director C,1981,83,4.9,161663.0
+Movie 729,"Action, Thriller",Director B,1993,101,8.1,200738.0
+Movie 730,"Drama, \N, ",,1983,170,7.7,486701.0
+Movie 731,Horror,N/A,2006,110,6.0,384321.0
+Movie 732,"\N, ",Director A,1983,150,,430233.0
+Movie 733,"Thriller, Adventure, Sci-Fi",N/A,1990,67,1.9,435176.0
+Movie 734,Sci-Fi,Director A,1989,141,7.5,136660.0
+Movie 735,Sci-Fi,Director C,1969,119,2.6,
+Movie 736,", Action, Romance",,2011,163,2.9,
+Movie 737,\N,Director A,1984,75,7.6,480747.0
+Movie 738,", Adventure",Director C,1986,116,9.7,412262.0
+Movie 739,"Thriller, Adventure",Director D,2010,105,2.4,444086.0
+Movie 740,Sci-Fi,Director B,2012,150,,340992.0
+Movie 741,"Adventure, Romance, Action",Director D,2012,141,3.8,264724.0
+Movie 742,"Action, Horror, Adventure",Director C,1953,103,7.4,435320.0
+Movie 743,"Action, Sci-Fi, Adventure",N/A,1986,131,7.6,
+Movie 744,"Horror, ",Director B,1995,170,3.5,350183.0
+Movie 745,"Comedy, Drama",,1955,173,1.8,244508.0
+Movie 746,"Comedy, Thriller",N/A,1979,139,5.0,320923.0
+Movie 747,Action,,2016,162,2.1,62434.0
+Movie 748,"Sci-Fi, Action",Director A,2003,82,3.5,187939.0
+Movie 749,"Adventure, Comedy",Director D,2012,69,3.9,216692.0
+Movie 750,"Drama, Thriller",Director D,1964,153,4.6,253314.0
+Movie 751,"Horror, Comedy, Thriller",Director A,1967,111,5.0,7337.0
+Movie 752,"Comedy, Drama",Director A,1992,69,7.4,
+Movie 753,"Sci-Fi, Comedy, Romance",,202A,117,1.8,29007.0
+Movie 754,"Drama, Horror, Sci-Fi",Director C,1971,159,4.3,34512.0
+Movie 755,Comedy,N/A,1994,176,4.0,413635.0
+Movie 756,Thriller,Director C,1997,175,4.9,391909.0
+Movie 757,"Romance, Comedy",N/A,1978,172,,55718.0
+Movie 758,"Drama, Horror",,2008,136,1.4,317121.0
+Movie 759,"Adventure, Horror",Director C,2012,114,3.8,379204.0
+Movie 760,"Romance, Adventure",Director A,1970,104,6.4,161514.0
+Movie 761,"\N, ",Director B,2005,64,2.9,
+Movie 762,"Action, Drama, Romance",Director B,1996,82,2.4,23081.0
+Movie 763,"Romance, Comedy",,1976,75,2.8,490315.0
+Movie 764,,N/A,1966,120,1.2,304832.0
+Movie 765,"Romance, Horror",,1997,106,9.3,41625.0
+Movie 766,Action,Director C,1958,89,5.2,302738.0
+Movie 767,"Horror, Adventure",Director C,1972,147,4.6,397789.0
+Movie 768,"\N, Comedy",Director D,2003,132,7.1,108895.0
+Movie 769,"Adventure, Comedy",Director B,1965,83,2.6,404855.0
+Movie 770,Action,Director C,1991,145,4.5,429354.0
+Movie 771,"Adventure, Action",,1963,126,3.0,374961.0
+Movie 772,", Thriller, Romance",N/A,1998,103,8.1,415511.0
+Movie 773,"Drama, Sci-Fi",,1984,118,,101843.0
+Movie 774,"Horror, Comedy",,1959,154,3.6,128983.0
+Movie 775,"Horror, Sci-Fi, Romance",,2015,176,9.3,116224.0
+Movie 776,"Adventure, Action",Director D,1984,140,1.7,264219.0
+Movie 777,"Adventure, \N, Sci-Fi",Director C,1980,61,3.7,
+Movie 778,"Sci-Fi, Romance",,1988,139,3.0,150071.0
+Movie 779,"Sci-Fi, Thriller, Horror",Director A,2023,128,5.5,317266.0
+Movie 780,Sci-Fi,Director C,2003,136,7.2,174957.0
+Movie 781,"Thriller, Sci-Fi, ",Director A,1971,167,,109235.0
+Movie 782,Drama,Director A,1984,97,8.0,357450.0
+Movie 783,"Adventure, Action",Director A,1977,104,5.0,136125.0
+Movie 784,", Thriller",Director B,1969,63,9.0,326826.0
+Movie 785,", \N",Director B,1960,161,9.6,438559.0
+Movie 786,"Sci-Fi, Drama, Thriller",N/A,2022,170,1.2,3265.0
+Movie 787,"Comedy, Sci-Fi, Drama",Director A,1968,134,3.8,460821.0
+Movie 788,"Drama, Sci-Fi, Comedy",Director D,1982,168,,65546.0
+Movie 789,,N/A,1953,94,1.6,133223.0
+Movie 790,"Sci-Fi, Comedy, Action",Director C,1973,159,1.4,
+Movie 791,Drama,,\N,159,8.8,321689.0
+Movie 792,"Sci-Fi, ",Director A,2000,\N,7.3,64335.0
+Movie 793,"Comedy, Sci-Fi, Horror",,1969,127,8.5,227747.0
+Movie 794,"Thriller, Drama, Adventure",Director C,1977,157,3.9,498049.0
+Movie 795,"Romance, Drama, Sci-Fi",,1999,154,6.2,191949.0
+Movie 796,"\N, Adventure, Romance",Director C,1982,76,4.2,225279.0
+Movie 797,"Romance, \N",Director B,1953,106,4.3,430804.0
+Movie 798,", Action, Adventure",Director C,1981,166,8.3,124142.0
+Movie 799,\N,,1979,115,3.3,252815.0
+Movie 800,"Thriller, \N",Director C,\N,177,8.1,247438.0
+Movie 801,"Sci-Fi, \N, Drama",Director D,1995,89,3.6,154212.0
+Movie 802,"Action, Comedy, Horror",,1960,111,3.7,65900.0
+Movie 803,", Action",Director B,1976,112,4.9,333164.0
+Movie 804,"Romance, Action, Comedy",N/A,1985,88,1.8,330541.0
+Movie 805,"Adventure, Action",Director D,2014,61,6.7,485904.0
+Movie 806,"Horror, , Thriller",Director B,1996,165,5.4,122432.0
+Movie 807,Romance,N/A,1964,141,1.5,229672.0
+Movie 808,"Thriller, Action, Romance",Director D,1981,155,5.5,453033.0
+Movie 809,"Adventure, Sci-Fi",Director D,1984,83,7.8,190697.0
+Movie 810,Romance,Director A,1975,165,,225305.0
+Movie 811,"Thriller, \N",Director D,1966,179,9.3,373330.0
+Movie 812,"Adventure, , Sci-Fi",,1989,97,3.8,200250.0
+Movie 813,"Drama, Horror",,1985,119,1.1,181790.0
+Movie 814,\N,Director D,1997,\N,1.9,243808.0
+Movie 815,"Horror, Romance, Thriller",N/A,1957,122,2.8,282156.0
+Movie 816,"Drama, ",Director D,1997,61,5.5,79910.0
+Movie 817,"Sci-Fi, Adventure",Director A,2022,74,,474728.0
+Movie 818,"Comedy, \N, Horror",N/A,1962,119,1.5,238105.0
+Movie 819,"Romance, Drama, Thriller",,N/A,81,,331236.0
+Movie 820,"Drama, Adventure",Director A,1976,68,7.7,351922.0
+Movie 821,Comedy,Director B,1952,79,10.0,
+Movie 822,"Thriller, Action",Director C,N/A,91,,333579.0
+Movie 823,"Sci-Fi, \N, Drama",Director A,202A,127,4.8,471920.0
+Movie 824,"Horror, Adventure, Romance",Director B,2010,177,1.2,145669.0
+Movie 825,"Horror, \N, Comedy",Director D,2006,95,5.0,427309.0
+Movie 826,Thriller,Director B,1982,75,8.6,27244.0
+Movie 827,"Adventure, Thriller",Director A,1954,105,3.2,148416.0
+Movie 828,"Comedy, , Action",Director C,1967,68,2.7,416211.0
+Movie 829,"Thriller, Drama, Action",Director D,1961,112,,323755.0
+Movie 830,\N,Director C,1983,93,3.3,256603.0
+Movie 831,"Horror, Comedy",Director D,1959,170,4.8,
+Movie 832,"Drama, Comedy",Director D,1955,94,5.8,106603.0
+Movie 833,Drama,Director D,1984,69,3.0,113209.0
+Movie 834,"Action, , Comedy",N/A,1991,98,,472777.0
+Movie 835,"Thriller, Comedy",Director C,1950,133,3.4,57382.0
+Movie 836,Romance,,1958,133,9.1,364584.0
+Movie 837,,Director C,\N,135,9.6,231754.0
+Movie 838,Sci-Fi,Director A,1980,175,,315834.0
+Movie 839,,Director C,1987,160,3.6,343900.0
+Movie 840,", Action",Director C,1982,115,4.2,433521.0
+Movie 841,Thriller,Director C,1957,130,4.7,96092.0
+Movie 842,,Director A,1998,112,8.2,115662.0
+Movie 843,"Romance, Sci-Fi",Director A,2014,172,9.3,148364.0
+Movie 844,"Drama, Action",N/A,2016,120,4.5,198568.0
+Movie 845,"Romance, Adventure, Action",Director B,1951,175,8.7,
+Movie 846,"Romance, ",Director D,1966,105,3.3,275708.0
+Movie 847,Drama,Director B,2003,82,9.3,352789.0
+Movie 848,Comedy,,2023,110,5.7,89221.0
+Movie 849,"Comedy, Sci-Fi",Director B,2001,69,1.8,257486.0
+Movie 850,\N,Director C,1990,160,3.6,388129.0
+Movie 851,"Drama, Horror",,1984,68,7.3,52511.0
+Movie 852,Action,N/A,2008,125,5.7,150826.0
+Movie 853,Action,Director A,2016,85,1.1,96523.0
+Movie 854,Drama,Director A,2013,93,5.9,305103.0
+Movie 855,"Action, Adventure",,N/A,142,,113011.0
+Movie 856,", Action, Adventure",Director D,1994,131,3.3,243857.0
+Movie 857,"Adventure, \N, Thriller",Director C,1985,75,1.9,412121.0
+Movie 858,"Romance, ",Director B,1951,114,8.3,130298.0
+Movie 859,Sci-Fi,,1955,106,2.1,390411.0
+Movie 860,"Romance, Comedy",,1968,78,7.7,480368.0
+Movie 861,"Drama, Romance",Director D,1988,140,6.7,
+Movie 862,", \N",,1982,173,8.2,247989.0
+Movie 863,"Romance, Thriller, Comedy",Director B,1950,102,3.4,273795.0
+Movie 864,"Drama, Comedy",Director A,2000,92,4.9,105854.0
+Movie 865,"Adventure, Horror",Director D,1968,76,7.9,103818.0
+Movie 866,"Horror, Comedy, Thriller",N/A,2006,78,4.4,190300.0
+Movie 867,Sci-Fi,Director A,1968,95,8.9,277539.0
+Movie 868,"Adventure, Thriller, Romance",Director A,1955,107,6.1,122075.0
+Movie 869,"Adventure, Drama, Action",,1997,177,5.3,60445.0
+Movie 870,", Action, Romance",Director D,1970,160,9.1,315912.0
+Movie 871,Comedy,Director D,2003,140,,285810.0
+Movie 872,"Thriller, Sci-Fi, Drama",Director D,1967,148,2.4,141725.0
+Movie 873,"\N, Sci-Fi, ",N/A,1981,144,3.8,130433.0
+Movie 874,"Action, \N",Director B,2009,73,2.7,
+Movie 875,"\N, Horror, Drama",Director A,1959,113,9.0,209656.0
+Movie 876,", Romance, Drama",N/A,1995,158,1.1,498088.0
+Movie 877,"Horror, Drama",Director A,1957,111,3.0,143841.0
+Movie 878,,,1950,85,,220050.0
+Movie 879,"Adventure, , Romance",,1962,101,,362832.0
+Movie 880,,N/A,2015,145,2.3,97015.0
+Movie 881,"Drama, Action",,1970,100,7.3,137872.0
+Movie 882,Sci-Fi,Director D,2019,71,2.2,446508.0
+Movie 883,"\N, Action, Sci-Fi",Director C,1962,83,,351459.0
+Movie 884,,Director C,2012,70,3.8,482535.0
+Movie 885,", Sci-Fi",N/A,1970,94,5.4,421685.0
+Movie 886,", Action",N/A,2006,180,9.7,411938.0
+Movie 887,Horror,N/A,1952,92,6.2,77675.0
+Movie 888,"Adventure, Romance, Horror",Director C,1967,67,,465876.0
+Movie 889,"Sci-Fi, Horror, Drama",Director A,1971,120,9.3,
+Movie 890,"Sci-Fi, Adventure, Horror",Director C,1964,94,8.0,189657.0
+Movie 891,"Sci-Fi, Action, Drama",,1988,62,,107084.0
+Movie 892,Horror,N/A,1973,129,3.4,350770.0
+Movie 893,Horror,Director B,2014,177,7.6,280957.0
+Movie 894,Sci-Fi,Director A,2009,63,1.1,407906.0
+Movie 895,Horror,Director C,1977,154,2.0,201214.0
+Movie 896,Horror,Director B,1952,165,4.6,490226.0
+Movie 897,"Thriller, , Sci-Fi",Director A,2003,75,3.2,1828.0
+Movie 898,\N,Director D,2006,143,5.2,429799.0
+Movie 899,\N,Director B,1975,110,8.8,493775.0
+Movie 900,Thriller,Director A,1980,122,,86608.0
+Movie 901,"Drama, Thriller, ",Director C,1972,132,8.8,36260.0
+Movie 902,Sci-Fi,N/A,1997,133,3.4,87908.0
+Movie 903,"Romance, Adventure",Director B,2004,139,3.0,154482.0
+Movie 904,", Thriller, Adventure",Director B,1972,82,8.7,499563.0
+Movie 905,"Horror, Drama",N/A,1992,63,3.6,426757.0
+Movie 906,"Comedy, \N",Director B,2005,106,2.1,
+Movie 907,"Romance, \N, Comedy",,1978,103,8.5,314172.0
+Movie 908,"Thriller, Adventure",Director D,1992,172,9.3,242273.0
+Movie 909,"Sci-Fi, Comedy, \N",Director C,2015,154,8.6,36959.0
+Movie 910,"Adventure, Horror",N/A,1985,126,9.2,259102.0
+Movie 911,"Action, \N",Director B,2002,\N,8.0,45375.0
+Movie 912,"Thriller, Comedy, Horror",N/A,1962,123,3.3,206154.0
+Movie 913,"Sci-Fi, Adventure",Director A,2020,124,2.8,170585.0
+Movie 914,Romance,N/A,\N,153,2.6,273765.0
+Movie 915,"Horror, \N",Director D,1982,76,9.2,
+Movie 916,Drama,Director A,2004,93,9.8,124062.0
+Movie 917,"Action, ",Director D,2010,117,1.4,155181.0
+Movie 918,\N,,2011,162,5.2,160659.0
+Movie 919,Thriller,Director B,2003,136,9.7,22030.0
+Movie 920,"Romance, Horror",N/A,1950,72,3.2,208058.0
+Movie 921,Action,N/A,2011,163,3.5,293610.0
+Movie 922,"Adventure, Romance, Sci-Fi",Director D,1950,147,4.4,149157.0
+Movie 923,"Adventure, Horror, Action",,2006,134,7.4,
+Movie 924,", Horror, Romance",Director A,1999,174,8.0,44192.0
+Movie 925,"Action, \N, Sci-Fi",Director B,2020,101,6.5,486374.0
+Movie 926,"Romance, Thriller",Director D,1957,180,8.5,475571.0
+Movie 927,"Romance, Drama, Horror",N/A,1960,119,,346168.0
+Movie 928,"Thriller, Action, Comedy",Director B,1992,137,3.5,428099.0
+Movie 929,Horror,,1979,129,,361512.0
+Movie 930,"Comedy, ",,2003,143,3.6,50139.0
+Movie 931,"Sci-Fi, Comedy",Director A,1959,163,2.9,491615.0
+Movie 932,"Horror, \N",,1974,73,4.8,363829.0
+Movie 933,Drama,Director B,1951,64,5.9,372474.0
+Movie 934,"Sci-Fi, , Action",Director A,1961,103,3.7,
+Movie 935,"Thriller, Comedy",Director D,1972,102,3.6,264970.0
+Movie 936,Comedy,,1974,124,3.4,328924.0
+Movie 937,"Action, \N, Sci-Fi",Director D,1973,65,,68859.0
+Movie 938,"Romance, Drama, Comedy",Director D,2009,91,9.1,53743.0
+Movie 939,"Sci-Fi, Horror, Thriller",N/A,1987,117,6.7,429102.0
+Movie 940,"\N, Comedy",Director B,1977,155,8.1,354143.0
+Movie 941,"Drama, Adventure",,1981,71,1.9,380368.0
+Movie 942,"Horror, ",Director C,1982,83,8.5,23690.0
+Movie 943,"Horror, Adventure, ",,2018,152,3.5,385453.0
+Movie 944,"Comedy, , Sci-Fi",Director D,2018,two hours,4.3,344097.0
+Movie 945,Adventure,N/A,1998,90,6.5,242167.0
+Movie 946,Romance,N/A,2003,108,1.0,423573.0
+Movie 947,", Action, Horror",Director B,\N,114,7.4,476347.0
+Movie 948,"Thriller, ",Director D,2011,81,3.3,193527.0
+Movie 949,Adventure,N/A,1990,124,,483578.0
+Movie 950,Horror,Director C,N/A,151,2.3,312887.0
+Movie 951,"Comedy, Sci-Fi, Adventure",Director C,1978,66,9.6,100021.0
+Movie 952,Adventure,Director D,1963,140,7.3,441450.0
+Movie 953,Action,Director C,1971,166,5.1,234502.0
+Movie 954,", Comedy, Drama",,2009,78,1.0,
+Movie 955,"\N, Sci-Fi, Thriller",Director C,2010,90,,
+Movie 956,"Drama, Sci-Fi",,1968,174,6.8,53875.0
+Movie 957,", Comedy",Director C,1975,67,10.0,225572.0
+Movie 958,", \N, Adventure",Director A,1950,111,,84594.0
+Movie 959,"Thriller, Horror, Drama",N/A,\N,127,8.5,303433.0
+Movie 960,,,2015,167,1.6,250013.0
+Movie 961,", Romance",Director C,1996,99,4.9,125799.0
+Movie 962,", Horror, Comedy",Director D,1964,158,5.8,260542.0
+Movie 963,"Sci-Fi, Adventure",,2001,121,2.8,195872.0
+Movie 964,", \N",Director A,202A,153,3.5,429006.0
+Movie 965,"Comedy, ",Director C,1954,140,3.1,
+Movie 966,Comedy,Director A,1996,164,5.7,44570.0
+Movie 967,"Thriller, Sci-Fi, Horror",,1985,77,7.0,27481.0
+Movie 968,"Romance, Adventure, Action",Director B,1953,163,5.8,
+Movie 969,"Sci-Fi, Drama, Comedy",Director A,1983,102,1.5,278010.0
+Movie 970,Adventure,N/A,1980,173,5.5,358551.0
+Movie 971,"Horror, \N",Director A,1965,180,5.3,491334.0
+Movie 972,Thriller,Director A,1968,93,8.5,309980.0
+Movie 973,"Sci-Fi, Horror",N/A,2013,99,6.7,406746.0
+Movie 974,\N,,1963,72,3.3,48634.0
+Movie 975,"Thriller, Sci-Fi",N/A,1969,92,4.1,482512.0
+Movie 976,"Comedy, \N, Romance",Director B,1995,100,3.9,76889.0
+Movie 977,"Thriller, Romance",Director A,1986,178,1.0,476703.0
+Movie 978,\N,Director D,1988,70,7.9,365786.0
+Movie 979,Thriller,,1967,170,6.4,143711.0
+Movie 980,Sci-Fi,Director B,1996,71,7.1,221829.0
+Movie 981,\N,,2006,143,5.4,329781.0
+Movie 982,"Sci-Fi, Thriller, ",Director C,1973,118,9.9,312067.0
+Movie 983,"Adventure, Drama, Action",,1957,89,4.1,355746.0
+Movie 984,Sci-Fi,Director A,1953,172,3.7,228133.0
+Movie 985,Horror,,1953,119,,348670.0
+Movie 986,Comedy,Director D,2005,74,7.2,341180.0
+Movie 987,"Action, Sci-Fi, Horror",N/A,2010,165,7.0,474019.0
+Movie 988,"Adventure, Thriller, Comedy",,2008,124,1.2,11096.0
+Movie 989,Comedy,Director D,1987,141,7.3,134279.0
+Movie 990,"Romance, Comedy",Director D,2012,146,7.4,416616.0
+Movie 991,", Horror, Thriller",Director D,2015,78,9.6,157653.0
+Movie 992,"Comedy, ",,2019,98,8.5,366311.0
+Movie 993,"Horror, ",N/A,1984,124,7.6,456703.0
+Movie 994,"Sci-Fi, Romance",Director C,2018,157,3.4,443920.0
+Movie 995,"\N, Horror, Drama",Director A,1954,67,1.0,114517.0
+Movie 996,"\N, Comedy, Thriller",N/A,2019,169,3.4,307692.0
+Movie 997,"Action, Adventure",Director A,2010,150,2.8,125245.0
+Movie 998,Adventure,Director C,1988,168,5.1,44691.0
+Movie 999,"Romance, \N, Thriller",Director C,2001,143,,
+Movie 1000,"Romance, ",Director A,1995,62,2.6,98648.0
